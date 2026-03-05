@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.10/21009
-// Filename: feather_orb2.ggsk
-// Generated 2026-03-05T17:40:56
+// Filename: 
+// Generated 2026-03-05T17:47:27
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -15431,12 +15431,12 @@ alert("The current view has been copied.");
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 80px;';
+		hs+='height : 58px;';
 		hs+='position : absolute;';
-		hs+='right : 18px;';
-		hs+='top : 17px;';
+		hs+='right : 34px;';
+		hs+='top : 31px;';
 		hs+='visibility : inherit;';
-		hs+='width : 199px;';
+		hs+='width : 141px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -15463,8 +15463,8 @@ alert("The current view has been copied.");
 		hs+='color : #000000;';
 		hs+='height : 45px;';
 		hs+='position : absolute;';
-		hs+='right : 43px;';
-		hs+='top : 45px;';
+		hs+='right : 31px;';
+		hs+='top : 36px;';
 		hs+='visibility : inherit;';
 		hs+='width : 150px;';
 		hs+='pointer-events:auto;';
@@ -21442,10 +21442,10 @@ alert("The current view has been copied.");
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_275 = setInterval(() => {
+				let pdfInterval_279 = setInterval(() => {
 					if (skin._popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_275);
+						clearInterval(pdfInterval_279);
 					}
 				}, 50);
 			}
@@ -21461,10 +21461,10 @@ alert("The current view has been copied.");
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_276 = setInterval(() => {
+				let pdfInterval_280 = setInterval(() => {
 					if (skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_276);
+						clearInterval(pdfInterval_280);
 					}
 				}, 50);
 			}
