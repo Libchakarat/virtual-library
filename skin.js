@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.10/21009
-// Filename: 
-// Generated 2026-03-05T14:51:25
+// Filename: feather_orb2.ggsk
+// Generated 2026-03-05T17:40:56
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -5482,12 +5482,12 @@ navigator.share({ url: shareUrl });
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 121px;';
-		hs+='left : 19px;';
+		hs+='height : 76px;';
+		hs+='left : 31px;';
 		hs+='position : absolute;';
-		hs+='top : 184px;';
+		hs+='top : 207px;';
 		hs+='visibility : inherit;';
-		hs+='width : 301px;';
+		hs+='width : 189px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -5504,11 +5504,58 @@ navigator.share({ url: shareUrl });
 			return player.getCurrentNode();
 		}
 		me._image_1.onclick=function (e) {
-			player.openUrl("https:\/\/m.me\/nfechakarat","");
+			player.openUrl("https:\/\/lin.ee\/8USSiOF","");
 		}
 		me._image_1.ggUpdatePosition=function (useTransition) {
 		}
 		me._safe_area_main.appendChild(me._image_1);
+		el=me._image_4=document.createElement('div');
+		els=me._image_4__img=document.createElement('img');
+		els.className='ggskin ggskin_image_4';
+		hs=basePath + 'images/image_4.png';
+		els.setAttribute('src',hs);
+		els.ggNormalSrc=hs;
+		hs ='';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		els.setAttribute('style', hs);
+		els.className='ggskin ggskin_image';
+		els['ondragstart']=function() { return false; };
+		player.checkLoaded.push(els);
+		el.appendChild(els);
+		el.ggSubElement = els;
+		el.ggId="Image 4";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_image ";
+		el.ggType='image';
+		hs ='';
+		hs+='height : 79px;';
+		hs+='left : 28px;';
+		hs+='position : absolute;';
+		hs+='top : 126px;';
+		hs+='visibility : inherit;';
+		hs+='width : 196px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me._image_4.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return player.getCurrentNode();
+		}
+		me._image_4.onclick=function (e) {
+			player.openUrl("https:\/\/m.me\/nfechakarat","");
+		}
+		me._image_4.ggUpdatePosition=function (useTransition) {
+		}
+		me._safe_area_main.appendChild(me._image_4);
 		el=me._container_3=document.createElement('div');
 		el.ggId="Container 3";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
@@ -5559,12 +5606,12 @@ navigator.share({ url: shareUrl });
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 138px;';
+		hs+='height : 82px;';
 		hs+='left : -909px;';
 		hs+='position : absolute;';
-		hs+='top : 36px;';
+		hs+='top : 35px;';
 		hs+='visibility : inherit;';
-		hs+='width : 345px;';
+		hs+='width : 204px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='0% 50%';
@@ -15416,8 +15463,8 @@ alert("The current view has been copied.");
 		hs+='color : #000000;';
 		hs+='height : 45px;';
 		hs+='position : absolute;';
-		hs+='right : 48px;';
-		hs+='top : 39px;';
+		hs+='right : 43px;';
+		hs+='top : 45px;';
 		hs+='visibility : inherit;';
 		hs+='width : 150px;';
 		hs+='pointer-events:auto;';
@@ -21395,10 +21442,10 @@ alert("The current view has been copied.");
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_247 = setInterval(() => {
+				let pdfInterval_275 = setInterval(() => {
 					if (skin._popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_247);
+						clearInterval(pdfInterval_275);
 					}
 				}, 50);
 			}
@@ -21414,10 +21461,10 @@ alert("The current view has been copied.");
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_248 = setInterval(() => {
+				let pdfInterval_276 = setInterval(() => {
 					if (skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_248);
+						clearInterval(pdfInterval_276);
 					}
 				}, 50);
 			}
