@@ -59,7 +59,7 @@
       <hotspot title="" description="" url="{node4}" id="Point03" tilt="-0.53" skinid="ht_node" target="-87.5/-2.0/100.0" pan="-79.54"/>
       <hotspot title="" description="" url="{node5}" id="Point04" tilt="-11.26" skinid="ht_node" target="-89.1/-7.7/100.0" pan="-73.68"/>
       <hotspot title="" description="" url="{node6}" id="Point02" tilt="-2.73" skinid="ht_node" target="-3.1/1.7/100.0" pan="-183.37"/>
-      <hotspot title="" description="" url="{node10}" id="Point05" tilt="-5.38" skinid="ht_node" target="-87.6/9.6/100.0" pan="-337.52"/>
+      <hotspot title="" description="" url="{node10}" id="Point05" tilt="-5.38" skinid="ht_node" target="-87.7/11.1/100.0" pan="-337.52"/>
       <polyhotspot title="" description="" url="https://m.me/nfechakarat" id="Poly01" target="_blank">
         <polystring>-234.8/10.48|-234.9/7.71|-242.92/7.82|-243.23/11.05</polystring>
       </polyhotspot>
@@ -314,7 +314,7 @@
         <source url="media/TAPgigapixel-low resolution v2-2x.png"/>
       </image>
       <image roty="-5.360" rotx="1.930" id="Element04" clickmode="0" stretch="0.982" handcursor="0" popoutscaling="100" fov="20.000" hidepinned="0" width="2000" popbackmode="0" tilt="-11.360" height="1146" rotz="-1.200" pan="93.730">
-        <source url="media/Rip.png"/>
+        <source url="media/Riatap.png"/>
       </image>
       <image roty="-56.510" rotx="8.890" id="Element05" clickmode="1" stretch="0.798" handcursor="0" popoutscaling="100" fov="21.010" hidepinned="0" width="450" popbackmode="0" tilt="4.030" height="601" rotz="7.740" pan="27.490">
         <source url="media/Gemini_Generated_Image_3oona3oona3oona32233-gigapixel.jpeg"/>
