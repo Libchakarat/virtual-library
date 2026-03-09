@@ -191,7 +191,7 @@
       <image fov="41.840" hidepinned="0" handcursor="0" stretch="0.933" rotx="12.287" width="1369" pan="-92.052" tilt="10.394" height="1100" popoutscaling="100" roty="-3.954" popbackmode="0" id="Element02" rotz="0.514" clickmode="0">
         <source url="media/image-3.png"/>
       </image>
-      <image fov="30.068" hidepinned="0" handcursor="0" stretch="1.247" rotx="26.715" width="1902" pan="112.423" tilt="24.136" height="802" popoutscaling="100" roty="17.878" popbackmode="0" id="Element04" rotz="-7.066" clickmode="0">
+      <image fov="30.070" hidepinned="0" handcursor="0" stretch="1.247" rotx="26.720" width="1902" pan="112.420" tilt="24.140" height="802" popoutscaling="100" roty="17.880" popbackmode="0" id="Element04" rotz="-7.070" clickmode="0">
         <source url="media/Chkarat.jpg"/>
       </image>
       <video fov="55.000" startmutedmobile="0" hidepinned="0" nodechangekeep="0" ambientlevel="0.000" stretch="1.000" mode="1" tiltsize="10.000" level="1.000" field="90.000" height="100" popoutscaling="100" popbackmode="0" clickmode="0" handcursor="0" rotx="0.000" width="100" loop="1" pan="-134.730" tilt="-12.460" roty="0.000" id="Element01" pansize="10.000" rotz="0.000">
@@ -299,7 +299,7 @@
         <source url="media/images-1.jpg"/>
       </image>
       <image fov="12.740" hidepinned="0" handcursor="0" stretch="0.971" rotx="6.470" width="512" pan="107.150" tilt="-3.000" height="512" popoutscaling="100" roty="14.910" popbackmode="0" id="Element11" rotz="-1.000" clickmode="0">
-        <source url="media/ 1.jpg"/>
+        <source url="media/CHeck.jpg"/>
       </image>
       <image fov="13.010" hidepinned="0" handcursor="0" stretch="0.985" rotx="1.530" width="582" pan="93.590" tilt="-2.320" height="565" popoutscaling="100" roty="8.790" popbackmode="0" id="Element12" rotz="-1.980" clickmode="0">
         <source url="media/42996_0.png"/>
