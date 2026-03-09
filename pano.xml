@@ -371,7 +371,7 @@
         <source url="media/Riatap.png"/>
       </image>
       <image fov="21.010" hidepinned="0" handcursor="0" stretch="0.798" rotx="8.890" width="450" pan="27.490" tilt="4.030" height="601" popoutscaling="100" roty="-56.510" popbackmode="0" id="Element05" rotz="7.740" clickmode="1">
-        <source url="media/pt4.jpg"/>
+        <source url="media/pt2.jpg"/>
       </image>
       <image fov="26.560" hidepinned="0" handcursor="0" stretch="0.732" rotx="12.460" width="450" pan="-32.040" tilt="4.230" height="552" popoutscaling="100" roty="61.800" popbackmode="0" id="Element07" rotz="-10.850" clickmode="1">
         <source url="media/pt1.jpg"/>
