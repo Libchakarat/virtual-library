@@ -59,7 +59,7 @@
       <hotspot skinid="ht_node" pan="-81.68" tilt="2.69" description="" url="{node4}" id="Point03" title="มุมห้องเรียน 360 องศา" target="-87.5/-2.0/100.0"/>
       <hotspot skinid="ht_node" pan="-50.29" tilt="1.09" description="" url="{node5}" id="Point04" title="มุม T-map" target="-89.1/-7.7/100.0"/>
       <hotspot skinid="ht_node" pan="-183.37" tilt="-2.73" description="" url="{node6}" id="Point02" title="" target="-3.1/1.7/100.0"/>
-      <hotspot skinid="ht_node" pan="-336.07" tilt="-3.57" description="" url="{node10}" id="Point05" title="ห้องเฉลิมพระเกียรติ" target="-87.7/11.1/100.0"/>
+      <hotspot skinid="ht_node" pan="-336.07" tilt="-3.49" description="" url="{node10}" id="Point05" title="ห้องเฉลิมพระเกียรติ" target="-87.7/11.1/100.0"/>
       <polyhotspot description="" url="https://m.me/nfechakarat" id="Poly01" title="" target="_blank">
         <polystring>-234.8/10.48|-234.9/7.71|-242.92/7.82|-243.23/11.05</polystring>
       </polyhotspot>
@@ -108,7 +108,7 @@
         <source url="media/Colorful Playful Customer Review Request Instagram Post.jpg"/>
       </image>
       <image fov="40.790" hidepinned="0" handcursor="0" stretch="1.334" rotx="2.340" width="1024" pan="-0.220" tilt="0.840" height="683" popoutscaling="100" roty="-1.100" popbackmode="0" id="Element08" rotz="-0.700" clickmode="4">
-        <source url="media/PTCO.png"/>
+        <source url="media/PTCO.jpg"/>
       </image>
       <image fov="13.270" hidepinned="0" handcursor="0" stretch="1.038" rotx="-0.250" width="250" pan="74.770" tilt="-5.970" height="150" popoutscaling="100" roty="-21.780" popbackmode="0" id="Element10" rotz="-0.350" clickmode="0">
         <source url="media/image-1.png"/>
