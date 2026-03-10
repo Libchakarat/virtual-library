@@ -1,588 +1,589 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node6" hassounds="1" appversion="7.1.10" apprev="21009">
+<tour hassounds="1" appversion="7.1.10" start="node6" apprev="21009">
   <panorama id="node6">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="6764" width="6764" overlap="1" levelingroll="0">
-      <level preload="0" height="6764" width="6764" predecode="0"/>
-      <level preload="0" height="3382" width="3382" predecode="0"/>
-      <level preload="0" height="1691" width="1691" predecode="0"/>
-      <level preload="0" height="845" width="845" predecode="0"/>
-      <level preload="1" height="422" width="422" predecode="1"/>
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="6764" levelingroll="0" leveltilesize="510" height="6764" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="6764" predecode="0" height="6764"/>
+      <level preload="0" width="3382" predecode="0" height="3382"/>
+      <level preload="0" width="1691" predecode="0" height="1691"/>
+      <level preload="0" width="845" predecode="0" height="845"/>
+      <level preload="1" width="422" predecode="1" height="422"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="86.21" projection="4" pan="-5.04" tilt="6.94"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="-5.04" tilt="6.94" fov="86.21" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="หน้าห้องสมุด" source="" customnodeid="" nodeid="node6" author="" datetime="2/27/2026 4:11 PM" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="มุมห้องเฉลิมพระเกียรติ" pan="-3.11" description="" url="{node2}" tilt="1.05" target="-17.5/-5.2/100.0" id="Point01" skinid="ht_node"/>
+    <userdata description="" title="หน้าห้องสมุด" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node6" datetime="2/27/2026 4:11 PM" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node2}" description="" pan="-3.11" tilt="1.05" title="มุมห้องเฉลิมพระเกียรติ" id="Point01" target="-17.5/-5.2/100.0" skinid="ht_node"/>
     </hotspots>
     <media>
-      <video height="100" popbackmode="0" tilt="-6.890" pan="-19.460" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element01" loop="1" fov="45.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="0.000" roty="7.000" width="100" stretch="1.000">
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-19.460" rotx="0.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="7.000" fov="45.000" level="1.000" height="100" tilt="-6.890" field="90.000" id="Element01" ambientlevel="0.000">
         <source url="media/22.webm"/>
       </video>
-      <image popbackmode="0" rotz="-19.850" hidepinned="0" popoutscaling="100" tilt="-8.310" id="Element02" fov="49.180" pan="15.520" handcursor="0" rotx="-21.050" roty="-69.390" height="1536" width="2752" clickmode="1" stretch="0.567">
+      <image hidepinned="0" handcursor="0" width="2752" roty="-69.390" clickmode="1" fov="49.180" popoutscaling="100" popbackmode="0" height="1536" rotz="-19.850" pan="15.520" tilt="-8.310" rotx="-21.050" stretch="0.567" id="Element02">
         <source url="media/unnamed 6.png"/>
       </image>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node2">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="6814" width="6814" overlap="1" levelingroll="0">
-      <level preload="0" height="6814" width="6814" predecode="0"/>
-      <level preload="0" height="3407" width="3407" predecode="0"/>
-      <level preload="0" height="1703" width="1703" predecode="0"/>
-      <level preload="0" height="851" width="851" predecode="0"/>
-      <level preload="1" height="425" width="425" predecode="1"/>
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="6814" levelingroll="0" leveltilesize="510" height="6814" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="6814" predecode="0" height="6814"/>
+      <level preload="0" width="3407" predecode="0" height="3407"/>
+      <level preload="0" width="1703" predecode="0" height="1703"/>
+      <level preload="0" width="851" predecode="0" height="851"/>
+      <level preload="1" width="425" predecode="1" height="425"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="86.21" projection="4" pan="-17.68" tilt="-2.7"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="-17.68" tilt="-2.7" fov="86.21" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="มุมห้องเฉลิมพระเกียรติ" source="" customnodeid="" nodeid="node2" author="" datetime="2/25/2026 3:57 PM" altitude="-3048.00" heading="0" copyright="" latitude="" tags="New folder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="มุมลงนามถวายความอาลัย" pan="-40.47" description="" url="{node3}" tilt="-5.95" target="84.6/2.6/100.0" id="Point01" skinid="ht_node"/>
-      <hotspot title="มุมห้องเรียน 360 องศา" pan="-81.68" description="" url="{node4}" tilt="2.69" target="-87.5/-2.0/100.0" id="Point03" skinid="ht_node"/>
-      <hotspot title="มุม T-map" pan="-50.29" description="" url="{node5}" tilt="1.09" target="-89.1/-7.7/100.0" id="Point04" skinid="ht_node"/>
-      <hotspot title="" pan="-183.37" description="" url="{node6}" tilt="-2.73" target="-3.1/1.7/100.0" id="Point02" skinid="ht_node"/>
-      <hotspot title="ห้องเฉลิมพระเกียรติ" pan="-336.07" description="" url="{node10}" tilt="-3.49" target="-87.7/11.1/100.0" id="Point05" skinid="ht_node"/>
-      <polyhotspot title="" description="" url="https://m.me/nfechakarat" target="_blank" id="Poly01">
+    <userdata description="" title="มุมห้องเฉลิมพระเกียรติ" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node2" datetime="2/25/2026 3:57 PM" longitude="" heading="0" customnodeid="" source="" tags="New folder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" pan="-40.47" tilt="-5.95" title="มุมลงนามถวายความอาลัย" id="Point01" target="84.6/2.6/100.0" skinid="ht_node"/>
+      <hotspot url="{node4}" description="" pan="-81.68" tilt="2.69" title="มุมห้องเรียน 360 องศา" id="Point03" target="-87.5/-2.0/100.0" skinid="ht_node"/>
+      <hotspot url="{node5}" description="" pan="-50.29" tilt="1.09" title="มุม T-map" id="Point04" target="-89.1/-7.7/100.0" skinid="ht_node"/>
+      <hotspot url="{node6}" description="" pan="-183.37" tilt="-2.73" title="" id="Point02" target="-3.1/1.7/100.0" skinid="ht_node"/>
+      <hotspot url="{node10}" description="" pan="-336.07" tilt="-3.49" title="ห้องเฉลิมพระเกียรติ" id="Point05" target="-87.7/11.1/100.0" skinid="ht_node"/>
+      <polyhotspot url="https://m.me/nfechakarat" description="" title="" id="Poly01" target="_blank">
         <polystring>-234.8/10.48|-234.9/7.71|-242.92/7.82|-243.23/11.05</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://lin.ee/8USSiOF" target="_blank" id="Poly02">
+      <polyhotspot url="https://lin.ee/8USSiOF" description="" title="" id="Poly02" target="_blank">
         <polystring>-234.11/5.09|-234.1/2.3|-242.41/2.08|-242.65/5.19</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://line.me/ti/p/Jaturong369" target="_blank" id="Poly03">
+      <polyhotspot url="https://line.me/ti/p/Jaturong369" description="" title="" id="Poly03" target="_blank">
         <polystring>-230.02/-1.11|-229.3/-5.64|-235.51/-5.96|-239.6/-2.01</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://www.youtube.com/@%E0%B8%AA%E0%B8%81%E0%B8%A3.%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A" target="_blank" id="Poly04">
+      <polyhotspot url="https://www.youtube.com/@%E0%B8%AA%E0%B8%81%E0%B8%A3.%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A" description="" title="" id="Poly04" target="_blank">
         <polystring>-249.39/-5.43|-248.88/-7.82|-260.25/-9.14|-260.51/-6.32</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://www.facebook.com/" target="_blank" id="Poly05">
+      <polyhotspot url="https://www.facebook.com/" description="" title="" id="Poly05" target="_blank">
         <polystring>-266.13/-6.58|-266.05/-9.65|-275.91/-9.85|-275.8/-7.02</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://forms.gle/AL4EkiQbjdMuj9uz6" target="_blank" id="Poly06">
+      <polyhotspot url="https://forms.gle/AL4EkiQbjdMuj9uz6" description="" title="" id="Poly06" target="_blank">
         <polystring>-253.85/-28.36|-253.45/-31.68|-275.84/-33.19|-275.82/-29.71</polystring>
       </polyhotspot>
-      <polyhotspot title="" description="" url="https://libchakaratnew.glide.page/dl/d2ea37/S/2fabff/r/fpxBgvo8Q7y2wg3JvPWjLA" target="_blank" id="Poly08">
+      <polyhotspot url="https://libchakaratnew.glide.page/dl/d2ea37/S/2fabff/r/fpxBgvo8Q7y2wg3JvPWjLA" description="" title="" id="Poly08" target="_blank">
         <polystring>-283.21/-6.87|-283.21/-9.27|-291.75/-9.29|-291.45/-6.73</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <video height="100" popbackmode="0" tilt="-5.580" pan="52.330" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="2" rotz="-1.810" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element01" loop="10" fov="32.730" nodechangekeep="0" level="0.000" tiltsize="10.000" startmutedmobile="1" rotx="-3.260" roty="-35.210" width="50" stretch="0.927">
+      <video handcursor="0" clickmode="2" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="-1.810" pan="52.330" rotx="-3.260" stretch="0.927" mode="1" tiltsize="10.000" loop="10" nodechangekeep="0" hidepinned="0" startmutedmobile="1" width="50" roty="-35.210" fov="32.730" level="0.000" height="100" tilt="-5.580" field="90.000" id="Element01" ambientlevel="0.000">
         <source url="media/Toulib.mp4"/>
       </video>
-      <video height="416" popbackmode="0" tilt="14.470" pan="92.890" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="1.090" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element02" loop="30" fov="47.200" nodechangekeep="0" level="0.000" tiltsize="10.000" startmutedmobile="0" rotx="15.840" roty="-0.440" width="752" stretch="0.958">
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="1.090" pan="92.890" rotx="15.840" stretch="0.958" mode="1" tiltsize="10.000" loop="30" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="752" roty="-0.440" fov="47.200" level="0.000" height="416" tilt="14.470" field="90.000" id="Element02" ambientlevel="0.000">
         <source url="media/grok-video-77f266d1-178c-4ca7-9189-61a0e37dd326.mp4"/>
       </video>
-      <video height="100" popbackmode="0" tilt="-9.390" pan="-31.700" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element09" loop="1" fov="40.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="0.000" roty="0.000" width="100" stretch="1.000">
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-31.700" rotx="0.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="0.000" fov="40.000" level="1.000" height="100" tilt="-9.390" field="90.000" id="Element09" ambientlevel="0.000">
         <source url="media/mumi 0 ios.webm"/>
       </video>
-      <image popbackmode="0" rotz="-5.740" hidepinned="0" popoutscaling="100" tilt="10.120" id="Element03" fov="17.170" pan="122.160" handcursor="0" rotx="14.320" roty="35.400" height="200" width="500" clickmode="0" stretch="0.923">
+      <image hidepinned="0" handcursor="0" width="500" roty="35.400" clickmode="0" fov="17.170" popoutscaling="100" popbackmode="0" height="200" rotz="-5.740" pan="122.160" tilt="10.120" rotx="14.320" stretch="0.923" id="Element03">
         <source url="media/1.png"/>
       </image>
-      <image popbackmode="0" rotz="-2.830" hidepinned="0" popoutscaling="100" tilt="4.760" id="Element04" fov="17.320" pan="122.680" handcursor="0" rotx="7.010" roty="33.730" height="200" width="500" clickmode="0" stretch="0.943">
+      <image hidepinned="0" handcursor="0" width="500" roty="33.730" clickmode="0" fov="17.320" popoutscaling="100" popbackmode="0" height="200" rotz="-2.830" pan="122.680" tilt="4.760" rotx="7.010" stretch="0.943" id="Element04">
         <source url="media/2.png"/>
       </image>
-      <image popbackmode="0" rotz="2.868" hidepinned="0" popoutscaling="100" tilt="-2.734" id="Element05" fov="21.392" pan="122.745" handcursor="0" rotx="8.633" roty="31.788" height="200" width="500" clickmode="0" stretch="1.060">
+      <image hidepinned="0" handcursor="0" width="500" roty="31.788" clickmode="0" fov="21.392" popoutscaling="100" popbackmode="0" height="200" rotz="2.868" pan="122.745" tilt="-2.734" rotx="8.633" stretch="1.060" id="Element05">
         <source url="media/6.png"/>
       </image>
-      <image popbackmode="0" rotz="2.160" hidepinned="0" popoutscaling="100" tilt="-3.520" id="Element06" fov="30.370" pan="97.290" handcursor="0" rotx="3.470" roty="11.990" height="200" width="500" clickmode="0" stretch="1.013">
+      <image hidepinned="0" handcursor="0" width="500" roty="11.990" clickmode="0" fov="30.370" popoutscaling="100" popbackmode="0" height="200" rotz="2.160" pan="97.290" tilt="-3.520" rotx="3.470" stretch="1.013" id="Element06">
         <source url="media/Y F.png"/>
       </image>
-      <image popbackmode="0" rotz="3.390" hidepinned="0" popoutscaling="100" tilt="-25.740" id="Element07" fov="45.970" pan="95.350" handcursor="0" rotx="-22.580" roty="2.640" height="500" width="1000" clickmode="0" stretch="1.151">
+      <image hidepinned="0" handcursor="0" width="1000" roty="2.640" clickmode="0" fov="45.970" popoutscaling="100" popbackmode="0" height="500" rotz="3.390" pan="95.350" tilt="-25.740" rotx="-22.580" stretch="1.151" id="Element07">
         <source url="media/Colorful Playful Customer Review Request Instagram Post.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-0.700" hidepinned="0" popoutscaling="100" tilt="0.840" id="Element08" fov="40.790" pan="-0.220" handcursor="0" rotx="2.340" roty="-1.100" height="683" width="1024" clickmode="4" stretch="1.334">
+      <image hidepinned="0" handcursor="0" width="1024" roty="-1.100" clickmode="4" fov="40.790" popoutscaling="100" popbackmode="0" height="683" rotz="-0.700" pan="-0.220" tilt="0.840" rotx="2.340" stretch="1.334" id="Element08">
         <source url="media/PTCO.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-0.350" hidepinned="0" popoutscaling="100" tilt="-5.970" id="Element10" fov="13.270" pan="74.770" handcursor="0" rotx="-0.250" roty="-21.780" height="150" width="250" clickmode="0" stretch="1.038">
+      <image hidepinned="0" handcursor="0" width="250" roty="-21.780" clickmode="0" fov="13.270" popoutscaling="100" popbackmode="0" height="150" rotz="-0.350" pan="74.770" tilt="-5.970" rotx="-0.250" stretch="1.038" id="Element10">
         <source url="media/image-1.png"/>
       </image>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node3">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="6782" width="6782" overlap="1" levelingroll="0">
-      <level preload="0" height="6782" width="6782" predecode="0"/>
-      <level preload="0" height="3391" width="3391" predecode="0"/>
-      <level preload="0" height="1695" width="1695" predecode="0"/>
-      <level preload="0" height="847" width="847" predecode="0"/>
-      <level preload="1" height="423" width="423" predecode="1"/>
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="6782" levelingroll="0" leveltilesize="510" height="6782" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="6782" predecode="0" height="6782"/>
+      <level preload="0" width="3391" predecode="0" height="3391"/>
+      <level preload="0" width="1695" predecode="0" height="1695"/>
+      <level preload="0" width="847" predecode="0" height="847"/>
+      <level preload="1" width="423" predecode="1" height="423"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="86.21" projection="4" pan="87.13" tilt="1.93"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="87.13" tilt="1.93" fov="86.21" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="มุมลงนามถวายความอาลัย" source="" customnodeid="" nodeid="node3" author="" datetime="2/25/2026 5:04 PM" altitude="-3048.00" heading="0" copyright="" latitude="" tags="New folder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="มุมห้องเรียน 360 องศา" pan="-1.64" description="" url="{node4}" tilt="1.23" target="-90.9/-6.1/100.0" id="Point01" skinid="ht_node"/>
-      <hotspot title="มุมห้องเฉลิมพระเกียรติ" pan="-232.68" description="" url="{node2}" tilt="2.17" target="4.3/-12.0/100.0" id="Point02" skinid="ht_node"/>
-      <hotspot title="มุม T-map" pan="-314.27" description="" url="{node5}" tilt="-3.13" target="-89.4/-3.8/100.0" id="Point04" skinid="ht_node"/>
-      <hotspot title="ด้านหน้าห้องสมุด" pan="-133.03" description="" url="{node6}" tilt="0.56" target="-5.3/0.9/100.0" id="Point03" skinid="ht_node"/>
-      <polyhotspot title="" description="" url="https://forms.gle/SGCRDiNpJbb6rm7p8" target="_blank" id="Poly01">
+    <userdata description="" title="มุมลงนามถวายความอาลัย" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node3" datetime="2/25/2026 5:04 PM" longitude="" heading="0" customnodeid="" source="" tags="New folder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="-1.64" tilt="1.23" title="มุมห้องเรียน 360 องศา" id="Point01" target="-90.9/-6.1/100.0" skinid="ht_node"/>
+      <hotspot url="{node2}" description="" pan="-232.68" tilt="2.17" title="มุมห้องเฉลิมพระเกียรติ" id="Point02" target="4.3/-12.0/100.0" skinid="ht_node"/>
+      <hotspot url="{node5}" description="" pan="-314.27" tilt="-3.13" title="มุม T-map" id="Point04" target="-89.4/-3.8/100.0" skinid="ht_node"/>
+      <hotspot url="{node6}" description="" pan="-133.03" tilt="0.56" title="ด้านหน้าห้องสมุด" id="Point03" target="-5.3/0.9/100.0" skinid="ht_node"/>
+      <polyhotspot url="https://forms.gle/SGCRDiNpJbb6rm7p8" description="" title="" id="Poly01" target="_blank">
         <polystring>-266.47/-11.44|-266.5/-13.72|-279.43/-13.85|-279.62/-11.56</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <webelement popbackmode="0" tilt="2.580" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=GhAyJZzJcqcePZGP&amp;amp;list=PLALyojbbXts_mc2pk6xo-zod7XpLCu8Qo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-81.320" permeable="0" handcursor="0" clickmode="0" rotz="0.000" hidepinned="0" popoutscaling="100" id="Element01" fov="37.000" rotx="0.000" roty="6.000" height="315" width="560" stretch="1.000"/>
-      <video height="720" popbackmode="0" tilt="-11.010" pan="-242.550" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element02" loop="1" fov="60.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="-5.000" roty="1.000" width="1280" stretch="1.000">
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=GhAyJZzJcqcePZGP&amp;amp;list=PLALyojbbXts_mc2pk6xo-zod7XpLCu8Qo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-81.320" rotx="0.000" stretch="1.000" hidepinned="0" width="560" roty="6.000" fov="37.000" height="315" permeable="0" tilt="2.580" id="Element01"/>
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-242.550" rotx="-5.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="1280" roty="1.000" fov="60.000" level="1.000" height="720" tilt="-11.010" field="90.000" id="Element02" ambientlevel="0.000">
         <source url="media/1 An.webm"/>
       </video>
-      <image popbackmode="0" rotz="0.360" hidepinned="0" popoutscaling="100" tilt="-8.850" id="Element03" fov="21.170" pan="86.660" handcursor="0" rotx="-3.580" roty="0.210" height="1080" width="1920" clickmode="0" stretch="0.949">
+      <image hidepinned="0" handcursor="0" width="1920" roty="0.210" clickmode="0" fov="21.170" popoutscaling="100" popbackmode="0" height="1080" rotz="0.360" pan="86.660" tilt="-8.850" rotx="-3.580" stretch="0.949" id="Element03">
         <source url="media/Rip.png"/>
       </image>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node5">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="6766" width="6766" overlap="1" levelingroll="0">
-      <level preload="0" height="6766" width="6766" predecode="0"/>
-      <level preload="0" height="3383" width="3383" predecode="0"/>
-      <level preload="0" height="1691" width="1691" predecode="0"/>
-      <level preload="0" height="845" width="845" predecode="0"/>
-      <level preload="1" height="422" width="422" predecode="1"/>
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="6766" levelingroll="0" leveltilesize="510" height="6766" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="6766" predecode="0" height="6766"/>
+      <level preload="0" width="3383" predecode="0" height="3383"/>
+      <level preload="0" width="1691" predecode="0" height="1691"/>
+      <level preload="0" width="845" predecode="0" height="845"/>
+      <level preload="1" width="422" predecode="1" height="422"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="86.21" projection="4" pan="-91.11" tilt="-0.85"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="-91.11" tilt="-0.85" fov="86.21" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="มุม T-map" source="" customnodeid="" nodeid="node5" author="" datetime="2/25/2026 3:50 PM" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Pano2VR7" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="มุมห้องเรียน 360 องศา" pan="-175.82" description="" url="{node4}" tilt="3.59" target="100.5/-11.1/100.0" id="Point01" skinid="ht_node"/>
-      <hotspot title="มุมลงนามถวายความอาลัย" pan="-33.81" description="" url="{node3}" tilt="-7.94" target="-79.2/-6.1/100.0" id="Point02" skinid="ht_node"/>
-      <hotspot title="มุมห้องเฉลิมพระเกียรติ" pan="-30.95" description="" url="{node2}" tilt="3.25" target="-11.8/-12.9/100.0" id="Point03" skinid="ht_node"/>
-      <polyhotspot title="" description="" url="{node12}" target="0.0/0.0/100.0" id="Poly01">
+    <userdata description="" title="มุม T-map" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node5" datetime="2/25/2026 3:50 PM" longitude="" heading="0" customnodeid="" source="" tags="Pano2VR7" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="-175.82" tilt="3.59" title="มุมห้องเรียน 360 องศา" id="Point01" target="100.5/-11.1/100.0" skinid="ht_node"/>
+      <hotspot url="{node3}" description="" pan="-33.81" tilt="-7.94" title="มุมลงนามถวายความอาลัย" id="Point02" target="-79.2/-6.1/100.0" skinid="ht_node"/>
+      <hotspot url="{node2}" description="" pan="-30.95" tilt="3.25" title="มุมห้องเฉลิมพระเกียรติ" id="Point03" target="-11.8/-12.9/100.0" skinid="ht_node"/>
+      <polyhotspot url="{node12}" description="" title="" id="Poly01" target="0.0/0.0/100.0">
         <polystring>-75.67/16.1|-75.99/-2.5|-108.21/-2.53|-107.94/14.63</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" rotz="0.514" hidepinned="0" popoutscaling="100" tilt="10.394" id="Element02" fov="41.840" pan="-92.052" handcursor="0" rotx="12.287" roty="-3.954" height="1100" width="1369" clickmode="0" stretch="0.933">
+      <image hidepinned="0" handcursor="0" width="1369" roty="-3.954" clickmode="0" fov="41.840" popoutscaling="100" popbackmode="0" height="1100" rotz="0.514" pan="-92.052" tilt="10.394" rotx="12.287" stretch="0.933" id="Element02">
         <source url="media/image-3.png"/>
       </image>
-      <video height="100" popbackmode="0" tilt="-12.460" pan="-134.730" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element01" loop="1" fov="55.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="0.000" roty="0.000" width="100" stretch="1.000">
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-134.730" rotx="0.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="0.000" fov="55.000" level="1.000" height="100" tilt="-12.460" field="90.000" id="Element01" ambientlevel="0.000">
         <source url="media/2 An.webm"/>
       </video>
-      <webelement popbackmode="0" tilt="3.277" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GNCAztzxsFo?si=XpbBTl7zDrKxUY_n&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="101.517" permeable="0" handcursor="0" clickmode="1" rotz="0.009" hidepinned="0" popoutscaling="100" id="Element03" fov="44.925" rotx="1.854" roty="4.877" height="315" width="560" stretch="0.783"/>
-      <webelement popbackmode="0" tilt="23.422" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y1N7xYg_GMc?si=nEA7r6viXycf_C8K&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>&#xa;" pan="101.777" permeable="0" handcursor="0" clickmode="0" rotz="-3.043" hidepinned="0" popoutscaling="100" id="Element04" fov="43.071" rotx="23.837" roty="8.607" height="315" width="560" stretch="0.778"/>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GNCAztzxsFo?si=XpbBTl7zDrKxUY_n&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.009" pan="101.517" rotx="1.854" stretch="0.783" hidepinned="0" width="560" roty="4.877" fov="44.925" height="315" permeable="0" tilt="3.277" id="Element03"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y1N7xYg_GMc?si=nEA7r6viXycf_C8K&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>&#xa;" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-3.040" pan="101.780" rotx="23.840" stretch="0.778" hidepinned="0" width="560" roty="8.610" fov="43.070" height="315" permeable="0" tilt="23.420" id="Element04"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node4">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="6756" width="6756" overlap="1" levelingroll="0">
-      <level preload="0" height="6756" width="6756" predecode="0"/>
-      <level preload="0" height="3378" width="3378" predecode="0"/>
-      <level preload="0" height="1689" width="1689" predecode="0"/>
-      <level preload="0" height="844" width="844" predecode="0"/>
-      <level preload="1" height="422" width="422" predecode="1"/>
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="6756" levelingroll="0" leveltilesize="510" height="6756" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="6756" predecode="0" height="6756"/>
+      <level preload="0" width="3378" predecode="0" height="3378"/>
+      <level preload="0" width="1689" predecode="0" height="1689"/>
+      <level preload="0" width="844" predecode="0" height="844"/>
+      <level preload="1" width="422" predecode="1" height="422"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="มุมห้องเรียน 360 องศา" source="" customnodeid="" nodeid="node4" author="" datetime="2/25/2026 1:56 PM" altitude="-3048.00" heading="0" copyright="" latitude="" tags="New folder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="มุม T-map" pan="-218.54" description="" url="{node5}" tilt="-0.15" target="-87.6/-5.2/100.0" id="Point01" skinid="ht_node"/>
-      <hotspot title="มุมลงนามถวายความอาลัย" pan="-191.5" description="" url="{node3}" tilt="-4.21" target="-85.9/-3.5/100.0" id="Point02" skinid="ht_node"/>
-      <polyhotspot title="ห้องเรียนวิทยาศาสตร์" description="" url="{node7}" target="0.0/0.0/100.0" id="Poly01">
+    <userdata description="" title="มุมห้องเรียน 360 องศา" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node4" datetime="2/25/2026 1:56 PM" longitude="" heading="0" customnodeid="" source="" tags="New folder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" description="" pan="-218.54" tilt="-0.15" title="มุม T-map" id="Point01" target="-87.6/-5.2/100.0" skinid="ht_node"/>
+      <hotspot url="{node3}" description="" pan="-191.5" tilt="-4.21" title="มุมลงนามถวายความอาลัย" id="Point02" target="-85.9/-3.5/100.0" skinid="ht_node"/>
+      <polyhotspot url="{node7}" description="" title="ห้องเรียนวิทยาศาสตร์" id="Poly01" target="0.0/0.0/100.0">
         <polystring>-293.05/22.95|-293.06/11.82|-312.5/9.78|-312.2/18.7</polystring>
       </polyhotspot>
-      <polyhotspot title="ห้องเรียนเศรฐกิจพอเพียง" description="" url="{node8}" target="0.0/0.0/100.0" id="Poly02">
+      <polyhotspot url="{node8}" description="" title="ห้องเรียนเศรฐกิจพอเพียง" id="Poly02" target="0.0/0.0/100.0">
         <polystring>-36.53/13.99|-36.06/3.94|-50.84/4.32|-50.79/16.42</polystring>
       </polyhotspot>
-      <polyhotspot title="ห้องเรียนอ่านเปลี่ยนชีวิต" description="" url="{node9}" target="0.0/0.0/100.0" id="Poly03">
+      <polyhotspot url="{node9}" description="" title="ห้องเรียนอ่านเปลี่ยนชีวิต" id="Poly03" target="0.0/0.0/100.0">
         <polystring>-343.59/-2.39|-342.29/-11.56|-4.72/-11.16|-4.27/-2.94</polystring>
       </polyhotspot>
-      <polyhotspot title="Glide ห้องสมุด" description="" url="https://libchakaratnew.glide.page/dl/d0a5f4" target="_blank" id="Poly04">
+      <polyhotspot url="https://libchakaratnew.glide.page/dl/d0a5f4" description="" title="Glide ห้องสมุด" id="Poly04" target="_blank">
         <polystring>-17.53/18.92|-16.92/-1.33|-26.75/-1.28|-26.73/17.47</polystring>
       </polyhotspot>
-      <polyhotspot title="ห้องการเรียนรู้สำหรับเด็กและเยาวชน" description="" url="{node11}" target="-3.0/5.6/100.0" id="Poly05">
+      <polyhotspot url="{node11}" description="" title="ห้องการเรียนรู้สำหรับเด็กและเยาวชน" id="Poly05" target="-3.0/5.6/100.0">
         <polystring>-294.65/0.61|-295.19/-8.28|-312.37/-5.88|-312.02/1.26</polystring>
       </polyhotspot>
-      <polyhotspot title="Uno" description="" url="https://unonline.io/" target="_blank" id="Poly06">
+      <polyhotspot url="https://unonline.io/" description="" title="Uno" id="Poly06" target="_blank">
         <polystring>-236.13/0.5|-236.1/-5.8|-242.38/-6.2|-242.47/0.44</polystring>
       </polyhotspot>
-      <polyhotspot title="Checkers" description="" url="https://www.crazygames.com/th/game/checkers-free" target="_blank" id="Poly07">
+      <polyhotspot url="https://www.crazygames.com/th/game/checkers-free" description="" title="Checkers" id="Poly07" target="_blank">
         <polystring>-249.28/0.66|-249.5/-6.16|-255.93/-6.5|-255.99/0.69</polystring>
       </polyhotspot>
-      <polyhotspot title="บันไดงู" description="" url="https://www.crazygames.com/th/game/snakes-and-ladders" target="_blank" id="Poly08">
+      <polyhotspot url="https://www.crazygames.com/th/game/snakes-and-ladders" description="" title="บันไดงู" id="Poly08" target="_blank">
         <polystring>-262.39/1.46|-262.57/-6.22|-270.42/-6.07|-270.21/1.81</polystring>
       </polyhotspot>
-      <polyhotspot title="Colonist" description="" url="https://colonist.io/" target="_blank" id="Poly09">
+      <polyhotspot url="https://colonist.io/" description="" title="Colonist" id="Poly09" target="_blank">
         <polystring>-275.56/1.8|-275.58/-5.62|-283.62/-5.61|-283.16/1.98</polystring>
       </polyhotspot>
-      <polyhotspot title="Read TK" description="" url="https://read.tkpark.or.th/" target="_blank" id="Poly10">
+      <polyhotspot url="https://read.tkpark.or.th/" description="" title="Read TK" id="Poly10" target="_blank">
         <polystring>-68.08/4.03|-68.04/-4.93|-79.4/-5.65|-79.75/4.05</polystring>
       </polyhotspot>
-      <polyhotspot title="OokBee E-Book" description="" url="https://www.ookbee.com/shop/books/catalog/2385792/%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%A2?o=true&amp;orderBy=priceasc" target="_blank" id="Poly11">
+      <polyhotspot url="https://www.ookbee.com/shop/books/catalog/2385792/%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%A2?o=true&amp;orderBy=priceasc" description="" title="OokBee E-Book" id="Poly11" target="_blank">
         <polystring>-87.94/3.94|-87.63/-6.2|-98.65/-6.75|-98.75/3.61</polystring>
       </polyhotspot>
-      <polyhotspot title="TNRR E-Thesis" description="" url="https://tnrr.nriis.go.th/#/" target="_blank" id="Poly12">
+      <polyhotspot url="https://tnrr.nriis.go.th/#/" description="" title="TNRR E-Thesis" id="Poly12" target="_blank">
         <polystring>-107.32/3.13|-107.2/-7.11|-115.91/-7.13|-115.78/2.71</polystring>
       </polyhotspot>
-      <polyhotspot title="Hytexts E-Book" description="" url="https://www.hytexts.com/all/free" target="_blank" id="Poly13">
+      <polyhotspot url="https://www.hytexts.com/all/free" description="" title="Hytexts E-Book" id="Poly13" target="_blank">
         <polystring>-68.25/-15.97|-67.82/-23.52|-78.57/-24.52|-78.7/-16.39</polystring>
       </polyhotspot>
-      <polyhotspot title="หนังสือเรียน สกร." description="" url="https://pubhtml5.com/bookcase/qvcv/" target="_blank" id="Poly14">
+      <polyhotspot url="https://pubhtml5.com/bookcase/qvcv/" description="" title="หนังสือเรียน สกร." id="Poly14" target="_blank">
         <polystring>-88.89/-15.71|-88.78/-26.51|-116.51/-23.64|-116.52/-13.68</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" rotz="4.810" hidepinned="0" popoutscaling="100" tilt="20.810" id="Element01" fov="50.950" pan="-94.160" handcursor="0" rotx="27.080" roty="-7.600" height="527" width="1221" clickmode="0" stretch="1.010">
+      <image hidepinned="0" handcursor="0" width="1221" roty="-7.600" clickmode="0" fov="50.950" popoutscaling="100" popbackmode="0" height="527" rotz="4.810" pan="-94.160" tilt="20.810" rotx="27.080" stretch="1.010" id="Element01">
         <source url="media/Gemini_Generated_Image_ru7fkfru7fkfru7f.png"/>
       </image>
-      <image popbackmode="0" rotz="-4.070" hidepinned="0" popoutscaling="100" tilt="16.460" id="Element02" fov="44.620" pan="103.420" handcursor="0" rotx="14.160" roty="10.950" height="768" width="1376" clickmode="0" stretch="1.069">
+      <image hidepinned="0" handcursor="0" width="1376" roty="10.950" clickmode="0" fov="44.620" popoutscaling="100" popbackmode="0" height="768" rotz="-4.070" pan="103.420" tilt="16.460" rotx="14.160" stretch="1.069" id="Element02">
         <source url="media/Gemini_Generated_Image_gnpv7wgnpv7wgnpv.png"/>
       </image>
-      <image popbackmode="0" rotz="10.120" hidepinned="0" popoutscaling="100" tilt="17.030" id="Element04" fov="35.680" pan="56.410" handcursor="0" rotx="16.780" roty="-38.480" height="572" width="1024" clickmode="0" stretch="0.837">
+      <image hidepinned="0" handcursor="0" width="1024" roty="-38.480" clickmode="0" fov="35.680" popoutscaling="100" popbackmode="0" height="572" rotz="10.120" pan="56.410" tilt="17.030" rotx="16.780" stretch="0.837" id="Element04">
         <source url="media/unnamed 15.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-5.040" hidepinned="0" popoutscaling="100" tilt="-2.910" id="Element05" fov="35.320" pan="56.410" handcursor="0" rotx="-5.830" roty="-36.090" height="572" width="1024" clickmode="0" stretch="1.087">
+      <image hidepinned="0" handcursor="0" width="1024" roty="-36.090" clickmode="0" fov="35.320" popoutscaling="100" popbackmode="0" height="572" rotz="-5.040" pan="56.410" tilt="-2.910" rotx="-5.830" stretch="1.087" id="Element05">
         <source url="media/CoKid.png"/>
       </image>
-      <image popbackmode="0" rotz="-5.816" hidepinned="0" popoutscaling="100" tilt="10.396" id="Element06" fov="34.924" pan="-42.857" handcursor="0" rotx="12.859" roty="40.368" height="572" width="1024" clickmode="0" stretch="1.441">
+      <image hidepinned="0" handcursor="0" width="1024" roty="40.368" clickmode="0" fov="34.924" popoutscaling="100" popbackmode="0" height="572" rotz="-5.816" pan="-42.857" tilt="10.396" rotx="12.859" stretch="1.441" id="Element06">
         <source url="media/unnamed 16.jpg"/>
       </image>
-      <image popbackmode="0" rotz="1.240" hidepinned="0" popoutscaling="100" tilt="15.440" id="Element07" fov="35.400" pan="6.110" handcursor="0" rotx="11.170" roty="0.500" height="768" width="1376" clickmode="0" stretch="1.120">
+      <image hidepinned="0" handcursor="0" width="1376" roty="0.500" clickmode="0" fov="35.400" popoutscaling="100" popbackmode="0" height="768" rotz="1.240" pan="6.110" tilt="15.440" rotx="11.170" stretch="1.120" id="Element07">
         <source url="media/LH360.png"/>
       </image>
-      <image popbackmode="0" rotz="1.744" hidepinned="0" popoutscaling="100" tilt="-6.791" id="Element08" fov="35.495" pan="6.832" handcursor="0" rotx="-11.043" roty="2.857" height="768" width="1376" clickmode="0" stretch="1.005">
+      <image hidepinned="0" handcursor="0" width="1376" roty="2.857" clickmode="0" fov="35.495" popoutscaling="100" popbackmode="0" height="768" rotz="1.744" pan="6.832" tilt="-6.791" rotx="-11.043" stretch="1.005" id="Element08">
         <source url="media/image-2.png"/>
       </image>
-      <image popbackmode="0" rotz="6.460" hidepinned="0" popoutscaling="100" tilt="9.590" id="Element09" fov="20.520" pan="-22.360" handcursor="0" rotx="9.460" roty="-28.270" height="1920" width="1080" clickmode="0" stretch="0.749">
+      <image hidepinned="0" handcursor="0" width="1080" roty="-28.270" clickmode="0" fov="20.520" popoutscaling="100" popbackmode="0" height="1920" rotz="6.460" pan="-22.360" tilt="9.590" rotx="9.460" stretch="0.749" id="Element09">
         <source url="media/GlideApps  1.png"/>
       </image>
-      <image popbackmode="0" rotz="-0.800" hidepinned="0" popoutscaling="100" tilt="-3.000" id="Element10" fov="12.330" pan="120.560" handcursor="0" rotx="-1.170" roty="30.500" height="225" width="225" clickmode="0" stretch="0.905">
+      <image hidepinned="0" handcursor="0" width="225" roty="30.500" clickmode="0" fov="12.330" popoutscaling="100" popbackmode="0" height="225" rotz="-0.800" pan="120.560" tilt="-3.000" rotx="-1.170" stretch="0.905" id="Element10">
         <source url="media/images-1.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-1.000" hidepinned="0" popoutscaling="100" tilt="-3.000" id="Element11" fov="12.740" pan="107.150" handcursor="0" rotx="6.470" roty="14.910" height="512" width="512" clickmode="0" stretch="0.971">
+      <image hidepinned="0" handcursor="0" width="512" roty="14.910" clickmode="0" fov="12.740" popoutscaling="100" popbackmode="0" height="512" rotz="-1.000" pan="107.150" tilt="-3.000" rotx="6.470" stretch="0.971" id="Element11">
         <source url="media/CHeck.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-1.980" hidepinned="0" popoutscaling="100" tilt="-2.320" id="Element12" fov="13.010" pan="93.590" handcursor="0" rotx="1.530" roty="8.790" height="565" width="582" clickmode="0" stretch="0.985">
+      <image hidepinned="0" handcursor="0" width="582" roty="8.790" clickmode="0" fov="13.010" popoutscaling="100" popbackmode="0" height="565" rotz="-1.980" pan="93.590" tilt="-2.320" rotx="1.530" stretch="0.985" id="Element12">
         <source url="media/42996_0.png"/>
       </image>
-      <image popbackmode="0" rotz="-3.960" hidepinned="0" popoutscaling="100" tilt="-1.880" id="Element13" fov="14.570" pan="80.240" handcursor="0" rotx="-3.120" roty="-35.720" height="2000" width="2000" clickmode="0" stretch="0.815">
+      <image hidepinned="0" handcursor="0" width="2000" roty="-35.720" clickmode="0" fov="14.570" popoutscaling="100" popbackmode="0" height="2000" rotz="-3.960" pan="80.240" tilt="-1.880" rotx="-3.120" stretch="0.815" id="Element13">
         <source url="media/colonist.png"/>
       </image>
-      <image popbackmode="0" rotz="2.330" hidepinned="0" popoutscaling="100" tilt="-0.100" id="Element14" fov="18.980" pan="-73.500" handcursor="0" rotx="-4.830" roty="12.690" height="189" width="189" clickmode="0" stretch="0.943">
+      <image hidepinned="0" handcursor="0" width="189" roty="12.690" clickmode="0" fov="18.980" popoutscaling="100" popbackmode="0" height="189" rotz="2.330" pan="-73.500" tilt="-0.100" rotx="-4.830" stretch="0.943" id="Element14">
         <source url="media/images 2.png"/>
       </image>
-      <image popbackmode="0" rotz="1.380" hidepinned="0" popoutscaling="100" tilt="-0.610" id="Element15" fov="19.540" pan="-93.600" handcursor="0" rotx="-2.140" roty="-12.420" height="278" width="269" clickmode="0" stretch="0.904">
+      <image hidepinned="0" handcursor="0" width="269" roty="-12.420" clickmode="0" fov="19.540" popoutscaling="100" popbackmode="0" height="278" rotz="1.380" pan="-93.600" tilt="-0.610" rotx="-2.140" stretch="0.904" id="Element15">
         <source url="media/image.png"/>
       </image>
-      <image popbackmode="0" rotz="0.860" hidepinned="0" popoutscaling="100" tilt="-0.890" id="Element16" fov="17.470" pan="-111.810" handcursor="0" rotx="0.600" roty="-24.750" height="320" width="320" clickmode="0" stretch="0.931">
+      <image hidepinned="0" handcursor="0" width="320" roty="-24.750" clickmode="0" fov="17.470" popoutscaling="100" popbackmode="0" height="320" rotz="0.860" pan="-111.810" tilt="-0.890" rotx="0.600" stretch="0.931" id="Element16">
         <source url="media/place_holder_600x800.png"/>
       </image>
-      <image popbackmode="0" rotz="6.400" hidepinned="0" popoutscaling="100" tilt="-19.590" id="Element17" fov="17.960" pan="-73.100" handcursor="0" rotx="-25.160" roty="12.970" height="900" width="900" clickmode="0" stretch="0.997">
+      <image hidepinned="0" handcursor="0" width="900" roty="12.970" clickmode="0" fov="17.960" popoutscaling="100" popbackmode="0" height="900" rotz="6.400" pan="-73.100" tilt="-19.590" rotx="-25.160" stretch="0.997" id="Element17">
         <source url="media/ 1.png"/>
       </image>
-      <image popbackmode="0" rotz="-4.550" hidepinned="0" popoutscaling="100" tilt="-19.570" id="Element18" fov="34.940" pan="-102.680" handcursor="0" rotx="-18.700" roty="-15.090" height="774" width="1920" clickmode="0" stretch="1.172">
+      <image hidepinned="0" handcursor="0" width="1920" roty="-15.090" clickmode="0" fov="34.940" popoutscaling="100" popbackmode="0" height="774" rotz="-4.550" pan="-102.680" tilt="-19.570" rotx="-18.700" stretch="1.172" id="Element18">
         <source url="media/E-book Library  Bookcase - Flip Book_ PubHTML5 - Google Chrome 3_9_2026 10_43_29 AM.png"/>
       </image>
-      <video height="100" popbackmode="0" tilt="-3.390" pan="-325.620" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element03" loop="1" fov="60.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="-15.000" roty="-5.000" width="100" stretch="1.000">
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-325.620" rotx="-15.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="-5.000" fov="60.000" level="1.000" height="100" tilt="-3.390" field="90.000" id="Element03" ambientlevel="0.000">
         <source url="media/3 An.webm"/>
       </video>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node10">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="728" width="728" overlap="1" levelingroll="0">
-      <level preload="0" height="728" width="728" predecode="0"/>
-      <level preload="1" height="364" width="364" predecode="1"/>
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="728" levelingroll="0" leveltilesize="510" height="728" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="728" predecode="0" height="728"/>
+      <level preload="1" width="364" predecode="1" height="364"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องเฉลิมพระเกียรติ" source="" customnodeid="" nodeid="node10" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="ทางออก" pan="-155.34" description="" url="{node2}" tilt="-5.41" target="-0.3/-3.1/86.2" id="Point01" skinid="ht_node"/>
-      <polyhotspot title="" description="" url="https://forms.gle/zWXcMMyfiyn4RPgc7" target="_blank" id="Poly01">
+    <userdata description="" title="ห้องเฉลิมพระเกียรติ" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node10" datetime="" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node2}" description="" pan="-155.34" tilt="-5.41" title="ทางออก" id="Point01" target="-0.3/-3.1/86.2" skinid="ht_node"/>
+      <polyhotspot url="https://forms.gle/zWXcMMyfiyn4RPgc7" description="" title="" id="Poly01" target="_blank">
         <polystring>-260.99/-14.71|-260.97/-16.43|-272.22/-16.41|-271.88/-14.45</polystring>
       </polyhotspot>
-      <polyhotspot title="หนังสือพระราชนิพนธ์" description="" url="http://www.sirindhorn.net/hrh_new/s4_1.php" target="_blank" id="Poly02">
+      <polyhotspot url="http://www.sirindhorn.net/hrh_new/s4_1.php" description="" title="หนังสือพระราชนิพนธ์" id="Poly02" target="_blank">
         <polystring>-299.26/15.15|-298.93/-14.69|-306.89/-16.28|-307.06/16.71</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" rotz="-0.070" hidepinned="0" popoutscaling="100" tilt="20.030" id="Element01" fov="42.570" pan="-87.100" handcursor="0" rotx="15.660" roty="-1.430" height="928" width="786" clickmode="0" stretch="0.919">
+      <image hidepinned="0" handcursor="0" width="786" roty="-1.430" clickmode="0" fov="42.570" popoutscaling="100" popbackmode="0" height="928" rotz="-0.070" pan="-87.100" tilt="20.030" rotx="15.660" stretch="0.919" id="Element01">
         <source url="media/Tap11.png"/>
       </image>
-      <image popbackmode="0" rotz="-0.220" hidepinned="0" popoutscaling="100" tilt="-0.690" id="Element02" fov="28.870" pan="57.090" handcursor="0" rotx="1.180" roty="41.940" height="1024" width="683" clickmode="0" stretch="1.288">
+      <image hidepinned="0" handcursor="0" width="683" roty="41.940" clickmode="0" fov="28.870" popoutscaling="100" popbackmode="0" height="1024" rotz="-0.220" pan="57.090" tilt="-0.690" rotx="1.180" stretch="1.288" id="Element02">
         <source url="media/image.jpg"/>
       </image>
-      <image popbackmode="0" rotz="1.500" hidepinned="0" popoutscaling="100" tilt="10.170" id="Element03" fov="24.350" pan="94.850" handcursor="0" rotx="8.770" roty="-9.240" height="1357" width="1124" clickmode="0" stretch="0.941">
+      <image hidepinned="0" handcursor="0" width="1124" roty="-9.240" clickmode="0" fov="24.350" popoutscaling="100" popbackmode="0" height="1357" rotz="1.500" pan="94.850" tilt="10.170" rotx="8.770" stretch="0.941" id="Element03">
         <source url="media/TAPgigapixel-low resolution v2-2x.png"/>
       </image>
-      <image popbackmode="0" rotz="-1.200" hidepinned="0" popoutscaling="100" tilt="-11.360" id="Element04" fov="20.000" pan="93.730" handcursor="0" rotx="1.930" roty="-5.360" height="1146" width="2000" clickmode="0" stretch="0.982">
+      <image hidepinned="0" handcursor="0" width="2000" roty="-5.360" clickmode="0" fov="20.000" popoutscaling="100" popbackmode="0" height="1146" rotz="-1.200" pan="93.730" tilt="-11.360" rotx="1.930" stretch="0.982" id="Element04">
         <source url="media/Riatap.png"/>
       </image>
-      <image popbackmode="0" rotz="7.740" hidepinned="0" popoutscaling="100" tilt="4.030" id="Element05" fov="21.010" pan="27.490" handcursor="0" rotx="8.890" roty="-56.510" height="601" width="450" clickmode="1" stretch="0.798">
+      <image hidepinned="0" handcursor="0" width="450" roty="-56.510" clickmode="1" fov="21.010" popoutscaling="100" popbackmode="0" height="601" rotz="7.740" pan="27.490" tilt="4.030" rotx="8.890" stretch="0.798" id="Element05">
         <source url="media/pt2.jpg"/>
       </image>
-      <image popbackmode="0" rotz="-10.850" hidepinned="0" popoutscaling="100" tilt="4.230" id="Element07" fov="26.560" pan="-32.040" handcursor="0" rotx="12.460" roty="61.800" height="552" width="450" clickmode="1" stretch="0.732">
+      <image hidepinned="0" handcursor="0" width="450" roty="61.800" clickmode="1" fov="26.560" popoutscaling="100" popbackmode="0" height="552" rotz="-10.850" pan="-32.040" tilt="4.230" rotx="12.460" stretch="0.732" id="Element07">
         <source url="media/pt1.jpg"/>
       </image>
-      <image popbackmode="0" rotz="7.880" hidepinned="0" popoutscaling="100" tilt="6.900" id="Element08" fov="38.020" pan="139.610" handcursor="0" rotx="11.830" roty="-43.720" height="595" width="451" clickmode="1" stretch="0.899">
+      <image hidepinned="0" handcursor="0" width="451" roty="-43.720" clickmode="1" fov="38.020" popoutscaling="100" popbackmode="0" height="595" rotz="7.880" pan="139.610" tilt="6.900" rotx="11.830" stretch="0.899" id="Element08">
         <source url="media/pt3.jpg"/>
       </image>
-      <webelement popbackmode="0" tilt="2.580" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=8KVs3WYb9FcMlrT9&amp;amp;list=PLYrLw2xlVygKXz6BVaaIwqOsi2b54-cZ1&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-1.770" permeable="0" handcursor="0" clickmode="1" rotz="-0.260" hidepinned="0" popoutscaling="100" id="Element06" fov="43.430" rotx="1.670" roty="3.640" height="315" width="560" stretch="0.879"/>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=8KVs3WYb9FcMlrT9&amp;amp;list=PLYrLw2xlVygKXz6BVaaIwqOsi2b54-cZ1&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-0.260" pan="-1.770" rotx="1.670" stretch="0.879" hidepinned="0" width="560" roty="3.640" fov="43.430" height="315" permeable="0" tilt="2.580" id="Element06"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node12">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="682" width="682" overlap="1" levelingroll="0">
-      <level preload="0" height="682" width="682" predecode="0"/>
-      <level preload="1" height="341" width="341" predecode="1"/>
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="682" levelingroll="0" leveltilesize="510" height="682" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="682" predecode="0" height="682"/>
+      <level preload="1" width="341" predecode="1" height="341"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="-180" fovpixel="2" tilt="-60.5012"/>
-      <max fov="140" pan="180" fovstereographic="330" tilt="60.5012" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="-180" tilt="-60.5012" fovpixel="2"/>
+      <max pan="180" tilt="60.5012" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องเรียนรู้ T-map" source="" customnodeid="" nodeid="node12" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="" pan="-106.27" description="" url="https://dole-korat.my.canva.site/tmap-korat09" tilt="-5.56" target="_blank" id="Point01" skinid="ht_url"/>
-      <hotspot title="" pan="-65.91" description="" url="https://dole-korat.my.canva.site/tmap-korat22" tilt="-9.47" target="_blank" id="Point02" skinid="ht_url"/>
-      <hotspot title="ทางออก" pan="-146.4" description="" url="{node5}" tilt="-2.43" target="-91.1/-0.8/86.2" id="Point03" skinid="ht_node"/>
-      <polyhotspot title="เข้าสู่ T-map จักราช" description="" url="https://dole-korat.my.canva.site/tmap-korat06" target="_blank" id="Poly01">
+    <userdata description="" title="ห้องเรียนรู้ T-map" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node12" datetime="" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="https://osotho.co/arts_and_culture/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%9B%E0%B8%B1/" description="" pan="-106.27" tilt="-5.56" title="" id="Point01" target="_blank" skinid="ht_url"/>
+      <hotspot url="http://virtualhistoricalpark.finearts.go.th/phimai/index.php/th/about-us.html" description="" pan="-65.91" tilt="-9.47" title="" id="Point02" target="_blank" skinid="ht_url"/>
+      <hotspot url="{node5}" description="" pan="-146.4" tilt="-2.43" title="ทางออก" id="Point03" target="-91.1/-0.8/86.2" skinid="ht_node"/>
+      <hotspot url="https://saranukromthai.or.th/oldchild/1722" description="" pan="-307.37" tilt="-7.08" title="" id="Point04" target="_blank" skinid="ht_url"/>
+      <polyhotspot url="https://dole-korat.my.canva.site/tmap-korat06" description="" title="เข้าสู่ T-map จักราช" id="Poly01" target="_blank">
         <polystring>-243.19/12.41|-243.67/-9.86|-265.05/-10.57|-265.45/13.43</polystring>
       </polyhotspot>
-      <polyhotspot title="เข้าสู่ T-map โคราช" description="" url="https://dole-korat.my.canva.site/tmap-korat" target="_blank" id="Poly02">
+      <polyhotspot url="https://dole-korat.my.canva.site/tmap-korat" description="" title="เข้าสู่ T-map โคราช" id="Poly02" target="_blank">
         <polystring>-333.6/19.49|-335.42/-8.73|-29.91/-8.43|-31.83/20.29</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" rotz="0.540" hidepinned="0" popoutscaling="100" tilt="5.760" id="Element01" fov="80.770" pan="-3.880" handcursor="0" rotx="6.320" roty="-1.510" height="873" width="1369" clickmode="0" stretch="0.741">
+      <image hidepinned="0" handcursor="0" width="1369" roty="-1.510" clickmode="0" fov="80.770" popoutscaling="100" popbackmode="0" height="873" rotz="0.540" pan="-3.880" tilt="5.760" rotx="6.320" stretch="0.741" id="Element01">
         <source url="media/TMAP cr.png"/>
       </image>
-      <image popbackmode="0" rotz="-0.310" hidepinned="0" popoutscaling="100" tilt="2.380" id="Element02" fov="28.010" pan="106.390" handcursor="0" rotx="0.530" roty="7.410" height="1699" width="1366" clickmode="0" stretch="1.060">
+      <image hidepinned="0" handcursor="0" width="1366" roty="7.410" clickmode="0" fov="28.010" popoutscaling="100" popbackmode="0" height="1699" rotz="-0.310" pan="106.390" tilt="2.380" rotx="0.530" stretch="1.060" id="Element02">
         <source url="media/HOME.jpg"/>
       </image>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node7">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="364" width="364" overlap="1" levelingroll="0">
-      <level preload="1" height="364" width="364" predecode="1"/>
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="364" levelingroll="0" leveltilesize="510" height="364" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="1" width="364" predecode="1" height="364"/>
       <preview strip="1" color="0x808080"/>
-      <video endaction="loop" startonload="1" startmutedmobile="0" format="equi" targetview="" level="0">
+      <video startmutedmobile="0" targetview="" format="equi" startonload="1" endaction="loop" level="0">
         <source url="videos/videopanorama.mp4"/>
       </video>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="-180" fovpixel="2" tilt="-57.2309"/>
-      <max fov="140" pan="180" fovstereographic="330" tilt="57.2309" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="-180" tilt="-57.2309" fovpixel="2"/>
+      <max pan="180" tilt="57.2309" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องเรียนวิทยาศาสตร์" source="" customnodeid="" nodeid="node7" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="ทางออก" pan="-178.52" description="" url="{node4}" tilt="-3.63" target="2.3/4.4/100.0" id="Point01" skinid="ht_node"/>
-      <hotspot title="สารคดีระบบสุริยะ" pan="-0.05" description="" url="E_vn8tiaPvo" tilt="0.93" target="" id="Point04" skinid="ht_video_youtube"/>
+    <userdata description="" title="ห้องเรียนวิทยาศาสตร์" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node7" datetime="" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="-178.52" tilt="-3.63" title="ทางออก" id="Point01" target="2.3/4.4/100.0" skinid="ht_node"/>
+      <hotspot url="E_vn8tiaPvo" description="" pan="-0.05" tilt="0.93" title="สารคดีระบบสุริยะ" id="Point04" target="" skinid="ht_video_youtube"/>
     </hotspots>
     <media>
-      <webelement popbackmode="0" tilt="6.670" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=QJBDPG-nN5pjHxaO&amp;amp;list=PLOETAmOiyLaPabG5HrAT8Le2wggI4q0N1&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="50.110" permeable="0" handcursor="0" clickmode="4" rotz="1.380" hidepinned="0" popoutscaling="100" id="Element01" fov="16.550" rotx="12.710" roty="-7.600" height="315" width="560" stretch="1.253"/>
-      <webelement popbackmode="0" tilt="12.370" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=AoHha3KmAoL5txLg&amp;amp;list=PLIDiuIBwjZckdjyh6r5d6Pocn7tZJ9BQM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="112.580" permeable="0" handcursor="0" clickmode="4" rotz="10.790" hidepinned="0" popoutscaling="100" id="Element02" fov="42.940" rotx="16.980" roty="-36.960" height="315" width="560" stretch="0.850"/>
-      <webelement popbackmode="0" tilt="1.620" code="&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/th/embed/392882920a964ba797938bc325b1abd6?themeId=23&amp;templateId=5&amp;fontStackId=0&quot; width=&quot;800&quot; height=&quot;800&quot; frameborder=&quot;0&quot; allowfullscreen>&lt;/iframe>" pan="-79.380" permeable="1" handcursor="0" clickmode="1" rotz="-1.640" hidepinned="0" popoutscaling="100" id="Element03" fov="34.490" rotx="3.690" roty="27.300" height="800" width="800" stretch="0.834"/>
-      <webelement popbackmode="0" tilt="-8.020" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TQLR5vlY9h8?si=-uIPejzJJ89Y4F4l&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-108.375" permeable="0" handcursor="0" clickmode="4" rotz="5.192" hidepinned="0" popoutscaling="100" id="Element04" fov="26.425" rotx="-10.170" roty="28.387" height="315" width="560" stretch="1.222"/>
-      <webelement popbackmode="0" tilt="11.064" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-nr46H-SgD4?si=NKT59ugkt5IeOnNV&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-107.682" permeable="0" handcursor="0" clickmode="4" rotz="-8.096" hidepinned="0" popoutscaling="100" id="Element05" fov="29.476" rotx="12.219" roty="39.374" height="315" width="560" stretch="1.180"/>
-      <video height="100" popbackmode="0" tilt="-17.320" pan="-44.050" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="0.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element06" loop="1" fov="50.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="-17.000" roty="0.000" width="100" stretch="1.000">
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=QJBDPG-nN5pjHxaO&amp;amp;list=PLOETAmOiyLaPabG5HrAT8Le2wggI4q0N1&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="1.380" pan="50.110" rotx="12.710" stretch="1.253" hidepinned="0" width="560" roty="-7.600" fov="16.550" height="315" permeable="0" tilt="6.670" id="Element01"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=AoHha3KmAoL5txLg&amp;amp;list=PLIDiuIBwjZckdjyh6r5d6Pocn7tZJ9BQM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="10.790" pan="112.580" rotx="16.980" stretch="0.850" hidepinned="0" width="560" roty="-36.960" fov="42.940" height="315" permeable="0" tilt="12.370" id="Element02"/>
+      <webelement handcursor="0" code="&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/th/embed/392882920a964ba797938bc325b1abd6?themeId=23&amp;templateId=5&amp;fontStackId=0&quot; width=&quot;800&quot; height=&quot;800&quot; frameborder=&quot;0&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="-1.640" pan="-79.380" rotx="3.690" stretch="0.834" hidepinned="0" width="800" roty="27.300" fov="34.490" height="800" permeable="0" tilt="1.620" id="Element03"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TQLR5vlY9h8?si=-uIPejzJJ89Y4F4l&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="5.192" pan="-108.375" rotx="-10.170" stretch="1.222" hidepinned="0" width="560" roty="28.387" fov="26.425" height="315" permeable="0" tilt="-8.020" id="Element04"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-nr46H-SgD4?si=NKT59ugkt5IeOnNV&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="-8.096" pan="-107.682" rotx="12.219" stretch="1.180" hidepinned="0" width="560" roty="39.374" fov="29.476" height="315" permeable="0" tilt="11.064" id="Element05"/>
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="0.000" pan="-44.050" rotx="-17.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="0.000" fov="50.000" level="1.000" height="100" tilt="-17.320" field="90.000" id="Element06" ambientlevel="0.000">
         <source url="media/universe An.webm"/>
       </video>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node11">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="704" width="704" overlap="1" levelingroll="0">
-      <level preload="0" height="704" width="704" predecode="0"/>
-      <level preload="1" height="352" width="352" predecode="1"/>
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="704" levelingroll="0" leveltilesize="510" height="704" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="704" predecode="0" height="704"/>
+      <level preload="1" width="352" predecode="1" height="352"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องการเรียนรู้สำหรับเด็กและเยาวชน" source="" customnodeid="" nodeid="node11" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <polyhotspot title="" description="" url="https://anyflip.com/bookcase/rmsqv/" target="_blank" id="Poly01">
+    <userdata description="" title="ห้องการเรียนรู้สำหรับเด็กและเยาวชน" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node11" datetime="" longitude="" heading="0" customnodeid="" source="" tags="" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <polyhotspot url="https://anyflip.com/bookcase/rmsqv/" description="" title="" id="Poly01" target="_blank">
         <polystring>-285.33/12.63|-285.53/-6.88|-325.48/-6.66|-325.83/12.59</polystring>
       </polyhotspot>
-      <hotspot title="ทางออก" pan="-164.28" description="" url="{node4}" tilt="1.79" target="6.5/1.2/100.0" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node4}" description="" pan="-164.28" tilt="1.79" title="ทางออก" id="Point01" target="6.5/1.2/100.0" skinid="ht_node"/>
     </hotspots>
     <media>
-      <webelement popbackmode="0" tilt="9.100" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=I1pYdsezhMSMYNXr&amp;amp;list=PLfIVgmILoyy9qOnJmJuUC_IR2s6szVATL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-2.160" permeable="0" handcursor="0" clickmode="1" rotz="-0.190" hidepinned="0" popoutscaling="100" id="Element01" fov="31.320" rotx="10.130" roty="2.980" height="315" width="560" stretch="1.092"/>
-      <webelement popbackmode="0" tilt="1.890" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=1k1QpEIlry5nSCeD&amp;amp;list=PLQTxNIAgHbI8zxsi208VFUzCx0QaipjNS&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-67.710" permeable="0" handcursor="0" clickmode="1" rotz="0.230" hidepinned="0" popoutscaling="100" id="Element03" fov="55.340" rotx="2.030" roty="3.020" height="315" width="560" stretch="0.916"/>
-      <webelement popbackmode="0" tilt="14.060" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2Z1n3YRSsxM?si=U91hmq8RtshvHm6y&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-109.670" permeable="0" handcursor="0" clickmode="1" rotz="-13.510" hidepinned="0" popoutscaling="100" id="Element04" fov="29.840" rotx="19.070" roty="42.080" height="315" width="560" stretch="1.041"/>
-      <webelement popbackmode="0" tilt="14.193" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dE6zjRWiMxs?si=nOwrRv_gzOocIZsa&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="96.916" permeable="0" handcursor="0" clickmode="1" rotz="11.303" hidepinned="0" popoutscaling="100" id="Element06" fov="33.465" rotx="15.482" roty="-46.862" height="315" width="560" stretch="0.783"/>
-      <image popbackmode="0" rotz="-0.300" hidepinned="0" popoutscaling="100" tilt="6.580" id="Element02" fov="41.380" pan="54.110" handcursor="0" rotx="4.150" roty="-2.140" height="700" width="900" clickmode="0" stretch="1.241">
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=I1pYdsezhMSMYNXr&amp;amp;list=PLfIVgmILoyy9qOnJmJuUC_IR2s6szVATL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-0.190" pan="-2.160" rotx="10.130" stretch="1.092" hidepinned="0" width="560" roty="2.980" fov="31.320" height="315" permeable="0" tilt="9.100" id="Element01"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=1k1QpEIlry5nSCeD&amp;amp;list=PLQTxNIAgHbI8zxsi208VFUzCx0QaipjNS&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.230" pan="-67.710" rotx="2.030" stretch="0.916" hidepinned="0" width="560" roty="3.020" fov="55.340" height="315" permeable="0" tilt="1.890" id="Element03"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2Z1n3YRSsxM?si=U91hmq8RtshvHm6y&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-13.510" pan="-109.670" rotx="19.070" stretch="1.041" hidepinned="0" width="560" roty="42.080" fov="29.840" height="315" permeable="0" tilt="14.060" id="Element04"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dE6zjRWiMxs?si=nOwrRv_gzOocIZsa&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="11.300" pan="96.920" rotx="15.480" stretch="0.783" hidepinned="0" width="560" roty="-46.860" fov="33.460" height="315" permeable="0" tilt="14.190" id="Element06"/>
+      <image hidepinned="0" handcursor="0" width="900" roty="-2.140" clickmode="0" fov="41.380" popoutscaling="100" popbackmode="0" height="700" rotz="-0.300" pan="54.110" tilt="6.580" rotx="4.150" stretch="1.241" id="Element02">
         <source url="media/EBook kid SCH.png"/>
       </image>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node8">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="364" width="364" overlap="1" levelingroll="0">
-      <level preload="1" height="364" width="364" predecode="1"/>
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="364" levelingroll="0" leveltilesize="510" height="364" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="1" width="364" predecode="1" height="364"/>
       <preview strip="1" color="0x808080"/>
-      <video endaction="loop" startonload="1" startmutedmobile="0" format="equi" targetview="" level="0">
+      <video startmutedmobile="0" targetview="" format="equi" startonload="1" endaction="loop" level="0">
         <source url="videos/videopanorama-1.mp4"/>
       </video>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fov="140" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องเรียนเศรษฐกิจพอเพียง" source="" customnodeid="" nodeid="node8" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="ทางออก" pan="-185.54" description="" url="{node4}" tilt="-0.29" target="0.0/0.0/100.0" id="Point06" skinid="ht_node"/>
+    <userdata description="" title="ห้องเรียนเศรษฐกิจพอเพียง" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node8" datetime="" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="-185.54" tilt="-0.29" title="ทางออก" id="Point06" target="0.0/0.0/100.0" skinid="ht_node"/>
     </hotspots>
     <media>
-      <webelement popbackmode="0" tilt="5.340" code="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 56.25%;&#xa; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;&#xa; border-radius: 8px; will-change: transform;&quot;>&#xa;  &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;&quot;&#xa;    src=&quot;https://www.chaipat.or.th/eng/index.php&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;>&#xa;  &lt;/iframe>&#xa;&lt;/div>" pan="0.250" permeable="0" handcursor="0" clickmode="1" rotz="0.210" hidepinned="0" popoutscaling="100" id="Element01" fov="35.570" rotx="3.440" roty="2.280" height="1080" width="1920" stretch="0.945"/>
-      <webelement popbackmode="0" tilt="6.550" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=xh7EbBcwdZplkQqy&amp;amp;list=PLJVVigMc1kjwlos8-mIEnCNqnsv9ZuUL9&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="102.240" permeable="0" handcursor="0" clickmode="4" rotz="-0.920" hidepinned="0" popoutscaling="100" id="Element02" fov="27.140" rotx="5.370" roty="6.650" height="315" width="560" stretch="1.101"/>
-      <webelement popbackmode="0" tilt="6.320" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=wXFovJMezdAAGpIf&amp;amp;list=PLNRNjZBPd_ro_wMPtMyW3FEND8qH6hI5s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="74.620" permeable="0" handcursor="0" clickmode="4" rotz="1.700" hidepinned="0" popoutscaling="100" id="Element03" fov="26.100" rotx="6.190" roty="-19.840" height="315" width="560" stretch="1.083"/>
-      <webelement popbackmode="0" tilt="2.170" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=bEvcHSmvP4dsG4i3&amp;amp;list=PLDWht9kxE1idK8Y0EBYFO-ngjo3_aJfeM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-145.870" permeable="0" handcursor="0" clickmode="4" rotz="3.360" hidepinned="0" popoutscaling="100" id="Element04" fov="26.620" rotx="3.550" roty="-44.460" height="315" width="560" stretch="1.102"/>
-      <webelement popbackmode="0" tilt="7.130" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=hj8qYtFCKsOHvb_6&amp;amp;list=PL9ron6Gjn9mV0kNWMgmJttDYJOhsHZeWB&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-94.110" permeable="0" handcursor="0" clickmode="0" rotz="-0.200" hidepinned="0" popoutscaling="100" id="Element05" fov="41.110" rotx="7.970" roty="-0.390" height="315" width="560" stretch="1.017"/>
-      <webelement popbackmode="0" tilt="-2.630" code="&lt;iframe style=&quot;max-width:100%&quot; &#xa;  src=&quot;https://wordwall.net/th/embed/594473ae5bdc4db8a628c56f85c638c6?themeId=1&amp;templateId=5&amp;fontStackId=0&quot; &#xa;  width=&quot;800&quot; &#xa;  height=&quot;800&quot; &#xa;  frameborder=&quot;0&quot; &#xa;  allowfullscreen>&#xa;&lt;/iframe>" pan="-124.830" permeable="0" handcursor="0" clickmode="4" rotz="-0.960" hidepinned="0" popoutscaling="100" id="Element06" fov="16.600" rotx="-5.100" roty="-13.580" height="800" width="800" stretch="1.192"/>
-      <video height="100" popbackmode="0" tilt="-10.460" pan="-328.180" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="-2.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element07" loop="1" fov="45.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="-5.000" roty="-12.000" width="100" stretch="1.000">
+      <webelement handcursor="0" code="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 56.25%;&#xa; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;&#xa; border-radius: 8px; will-change: transform;&quot;>&#xa;  &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;&quot;&#xa;    src=&quot;https://www.chaipat.or.th/eng/index.php&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;>&#xa;  &lt;/iframe>&#xa;&lt;/div>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.210" pan="0.250" rotx="3.440" stretch="0.945" hidepinned="0" width="1920" roty="2.280" fov="35.570" height="1080" permeable="0" tilt="5.340" id="Element01"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=xh7EbBcwdZplkQqy&amp;amp;list=PLJVVigMc1kjwlos8-mIEnCNqnsv9ZuUL9&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="-0.920" pan="102.240" rotx="5.370" stretch="1.101" hidepinned="0" width="560" roty="6.650" fov="27.140" height="315" permeable="0" tilt="6.550" id="Element02"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=wXFovJMezdAAGpIf&amp;amp;list=PLNRNjZBPd_ro_wMPtMyW3FEND8qH6hI5s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="1.700" pan="74.620" rotx="6.190" stretch="1.083" hidepinned="0" width="560" roty="-19.840" fov="26.100" height="315" permeable="0" tilt="6.320" id="Element03"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=bEvcHSmvP4dsG4i3&amp;amp;list=PLDWht9kxE1idK8Y0EBYFO-ngjo3_aJfeM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="3.360" pan="-145.870" rotx="3.550" stretch="1.102" hidepinned="0" width="560" roty="-44.460" fov="26.620" height="315" permeable="0" tilt="2.170" id="Element04"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=hj8qYtFCKsOHvb_6&amp;amp;list=PL9ron6Gjn9mV0kNWMgmJttDYJOhsHZeWB&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="-0.200" pan="-94.110" rotx="7.970" stretch="1.017" hidepinned="0" width="560" roty="-0.390" fov="41.110" height="315" permeable="0" tilt="7.130" id="Element05"/>
+      <webelement handcursor="0" code="&lt;iframe style=&quot;max-width:100%&quot; &#xa;  src=&quot;https://wordwall.net/th/embed/594473ae5bdc4db8a628c56f85c638c6?themeId=1&amp;templateId=5&amp;fontStackId=0&quot; &#xa;  width=&quot;800&quot; &#xa;  height=&quot;800&quot; &#xa;  frameborder=&quot;0&quot; &#xa;  allowfullscreen>&#xa;&lt;/iframe>" clickmode="4" popoutscaling="100" popbackmode="0" rotz="-0.960" pan="-124.830" rotx="-5.100" stretch="1.192" hidepinned="0" width="800" roty="-13.580" fov="16.600" height="800" permeable="0" tilt="-2.630" id="Element06"/>
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="-2.000" pan="-328.180" rotx="-5.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="-12.000" fov="45.000" level="1.000" height="100" tilt="-10.460" field="90.000" id="Element07" ambientlevel="0.000">
         <source url="media/Sufficiency An.webm"/>
       </video>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node9">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="512" width="512" overlap="1" levelingroll="0">
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="512" levelingroll="0" leveltilesize="510" height="512" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level preload="0" width="512" predecode="0" height="512"/>
+      <level preload="1" width="256" predecode="1" height="256"/>
       <preview strip="1" color="0x808080"/>
-      <video endaction="loop" startonload="1" startmutedmobile="0" format="equi" targetview="" level="0">
+      <video startmutedmobile="0" targetview="" format="equi" startonload="1" endaction="loop" level="0">
         <source url="videos/kling_20260301_Image_to_Video_natural_mo_4104_0.mp4"/>
       </video>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="-180" fovpixel="2" tilt="-57.2116"/>
-      <max fov="140" pan="180" fovstereographic="330" tilt="57.2116" fovfisheye="360"/>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="-180" tilt="-57.2116" fovpixel="2"/>
+      <max pan="180" tilt="57.2116" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata title="ห้องเรียน อ่านเปลี่ยนชีวิต" source="" customnodeid="" nodeid="node9" author="" datetime="" altitude="-3048.00" heading="0" copyright="" latitude="" tags="Newfolder" description="" comment="" info="" longitude=""/>
-    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
-      <label enabled="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" background="1" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" height="20" border="1" width="180"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="ทางออก" pan="-66.75" description="" url="{node4}" tilt="-2.53" target="0.0/0.0/100.0" id="Point01" skinid="ht_node"/>
+    <userdata description="" title="ห้องเรียน อ่านเปลี่ยนชีวิต" comment="" info="" latitude="" author="" altitude="-3048.00" nodeid="node9" datetime="" longitude="" heading="0" customnodeid="" source="" tags="Newfolder" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" background="1" wordwrap="1" backgroundalpha="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textalpha="1" height="20" borderradius="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="-66.75" tilt="-2.53" title="ทางออก" id="Point01" target="0.0/0.0/100.0" skinid="ht_node"/>
     </hotspots>
     <media>
-      <webelement popbackmode="0" tilt="3.610" code="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 50%;&#xa; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;&#xa; border-radius: 8px; will-change: transform;&quot;>&#xa;  &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;&quot;&#xa;    src=&quot;https://www.canva.com/design/DAHCsTsuk_0/izCcqPbghKs4YIg8ChQngg/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;>&#xa;  &lt;/iframe>&#xa;&lt;/div>&#xa;&lt;a href=&quot;https://www.canva.com/design/DAHCsTsuk_0/izCcqPbghKs4YIg8ChQngg/view?utm_content=DAHCsTsuk_0&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>สำเนาของ ระบบสุ่มคำคมสอนใจเปลี่ยนชีวิต&lt;/a> โดย Chakarat NFE Nakhonratchasima" pan="-0.840" permeable="0" handcursor="0" clickmode="1" rotz="0.570" hidepinned="0" popoutscaling="100" id="Element01" fov="69.780" rotx="2.930" roty="-1.990" height="1080" width="1920" stretch="0.882"/>
-      <webelement popbackmode="0" tilt="20.040" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=WtzoJMKQ-PeZu19M&amp;amp;list=PL53SncSzNv-wtNXbZ-VDpL9DSrvPMEV4B&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-170.520" permeable="0" handcursor="0" clickmode="1" rotz="-4.010" hidepinned="0" popoutscaling="100" id="Element02" fov="52.160" rotx="21.860" roty="10.510" height="315" width="560" stretch="0.952"/>
-      <webelement popbackmode="0" tilt="17.400" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=27n5zlb3_jK5hyT7&amp;amp;list=PL82kn57c7yOdg3r-jwJYO5mUqX03hgPHL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="89.050" permeable="0" handcursor="0" clickmode="1" rotz="0.280" hidepinned="0" popoutscaling="100" id="Element03" fov="26.210" rotx="18.460" roty="-1.020" height="315" width="560" stretch="0.984"/>
-      <webelement popbackmode="0" tilt="6.300" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=z2nHBIfiFySLxBck&amp;amp;list=PLLC5nRuCqJNjoc4sDAEkn8_poURwyny52&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-92.610" permeable="0" handcursor="0" clickmode="1" rotz="-0.180" hidepinned="0" popoutscaling="100" id="Element04" fov="40.480" rotx="5.440" roty="0.290" height="315" width="560" stretch="0.867"/>
-      <webelement popbackmode="0" tilt="11.130" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=TzedpFZmJWZZy65k&amp;amp;list=PLLsIFGbfI1VR_jyzCo_M9tn9AblyQ6TDu&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-123.330" permeable="0" handcursor="0" clickmode="1" rotz="-14.140" hidepinned="0" popoutscaling="100" id="Element05" fov="37.980" rotx="17.590" roty="50.430" height="315" width="560" stretch="0.862"/>
-      <video height="100" popbackmode="0" tilt="-12.410" pan="-254.030" mode="1" handcursor="0" field="90.000" pansize="10.000" clickmode="0" rotz="-5.000" hidepinned="0" ambientlevel="0.000" popoutscaling="100" id="Element06" loop="1" fov="55.000" nodechangekeep="0" level="1.000" tiltsize="10.000" startmutedmobile="0" rotx="-14.000" roty="-21.000" width="100" stretch="1.000">
+      <webelement handcursor="0" code="&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-top: 50%;&#xa; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;&#xa; border-radius: 8px; will-change: transform;&quot;>&#xa;  &lt;iframe loading=&quot;lazy&quot; style=&quot;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;&quot;&#xa;    src=&quot;https://www.canva.com/design/DAHCsTsuk_0/izCcqPbghKs4YIg8ChQngg/view?embed&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;fullscreen&quot;>&#xa;  &lt;/iframe>&#xa;&lt;/div>&#xa;&lt;a href=&quot;https://www.canva.com/design/DAHCsTsuk_0/izCcqPbghKs4YIg8ChQngg/view?utm_content=DAHCsTsuk_0&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>สำเนาของ ระบบสุ่มคำคมสอนใจเปลี่ยนชีวิต&lt;/a> โดย Chakarat NFE Nakhonratchasima" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.570" pan="-0.840" rotx="2.930" stretch="0.882" hidepinned="0" width="1920" roty="-1.990" fov="69.780" height="1080" permeable="0" tilt="3.610" id="Element01"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=WtzoJMKQ-PeZu19M&amp;amp;list=PL53SncSzNv-wtNXbZ-VDpL9DSrvPMEV4B&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-4.010" pan="-170.520" rotx="21.860" stretch="0.952" hidepinned="0" width="560" roty="10.510" fov="52.160" height="315" permeable="0" tilt="20.040" id="Element02"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=27n5zlb3_jK5hyT7&amp;amp;list=PL82kn57c7yOdg3r-jwJYO5mUqX03hgPHL&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="0.280" pan="89.050" rotx="18.460" stretch="0.984" hidepinned="0" width="560" roty="-1.020" fov="26.210" height="315" permeable="0" tilt="17.400" id="Element03"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=z2nHBIfiFySLxBck&amp;amp;list=PLLC5nRuCqJNjoc4sDAEkn8_poURwyny52&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-0.180" pan="-92.610" rotx="5.440" stretch="0.867" hidepinned="0" width="560" roty="0.290" fov="40.480" height="315" permeable="0" tilt="6.300" id="Element04"/>
+      <webelement handcursor="0" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?si=TzedpFZmJWZZy65k&amp;amp;list=PLLsIFGbfI1VR_jyzCo_M9tn9AblyQ6TDu&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" clickmode="1" popoutscaling="100" popbackmode="0" rotz="-14.140" pan="-123.330" rotx="17.590" stretch="0.862" hidepinned="0" width="560" roty="50.430" fov="37.980" height="315" permeable="0" tilt="11.130" id="Element05"/>
+      <video handcursor="0" clickmode="0" pansize="10.000" popoutscaling="100" popbackmode="0" rotz="-5.000" pan="-254.030" rotx="-14.000" stretch="1.000" mode="1" tiltsize="10.000" loop="1" nodechangekeep="0" hidepinned="0" startmutedmobile="0" width="100" roty="-21.000" fov="55.000" level="1.000" height="100" tilt="-12.410" field="90.000" id="Element06" ambientlevel="0.000">
         <source url="media/Read An.webm"/>
       </video>
-      <sound ambientlevel="0.000" tilt="-1.000" id="_background" loop="30" pan="-1.000" mode="0" nodechangekeep="1" level="0.500" tiltsize="10.000" startmutedmobile="0" field="90.000" pansize="10.000">
-        <source mono="0" url="media/Moonlit Rows.mp3"/>
+      <sound startmutedmobile="0" pansize="10.000" level="0.500" pan="-1.000" tilt="-1.000" field="90.000" id="_background" mode="0" loop="30" nodechangekeep="1" tiltsize="10.000" ambientlevel="0.000">
+        <source url="media/Moonlit Rows.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomin="0" delay="none"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
-    <control zoomcentercursor="1" lockedwheel="0" contextvr="1" invertcontrol="1" hideabout="0" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" invertwheel="0" rubberband="0"/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" delay="none" zoomout="0" enabled="1" zoomafteroutfov="40" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" zoomcentercursor="1" hideabout="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" contextfullscreen="1"/>
   </panorama>
   <masternode>
-    <userdata title="" tags="" description="" author="" comment="" copyright=""/>
+    <userdata description="" title="" comment="" tags="" author="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
