@@ -412,6 +412,15 @@
       <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat" id="Poly02" description="" title="เข้าสู่ T-map โคราช">
         <polystring>-333.6/19.49|-335.42/-8.73|-29.91/-8.43|-31.83/20.29</polystring>
       </polyhotspot>
+      <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat22/page-4" id="Poly03" description="" title="ปราสาทหินพิมาย">
+        <polystring>-59.47/2.67|-59.28/-3.51|-64.53/-3.34|-64.53/2.74</polystring>
+      </polyhotspot>
+      <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat09/page-2-2" id="Poly04" description="" title="เครื่องปั้นดินเผาด่านเกวียน">
+        <polystring>-102.24/2.86|-102.04/-3.07|-111.15/-3.18|-110.71/3.24</polystring>
+      </polyhotspot>
+      <polyhotspot target="_blank" url="https://anowl.co/anowlrod/long-lens/part028/" id="Poly05" description="" title="ประวัติท้าวสุรนารี">
+        <polystring>-303.96/-10.34|-304.27/-14.29|-309.86/-14.22|-309.7/-9.99</polystring>
+      </polyhotspot>
     </hotspots>
     <media>
       <image hidepinned="0" popoutscaling="100" rotx="6.320" popbackmode="0" height="873" tilt="5.760" width="1369" stretch="0.741" handcursor="0" id="Element01" pan="-3.880" fov="80.770" clickmode="0" roty="-1.510" rotz="0.540">
@@ -419,6 +428,15 @@
       </image>
       <image hidepinned="0" popoutscaling="100" rotx="0.530" popbackmode="0" height="1699" tilt="2.380" width="1366" stretch="1.060" handcursor="0" id="Element02" pan="106.390" fov="28.010" clickmode="0" roty="7.410" rotz="-0.310">
         <source url="media/HOME.jpg"/>
+      </image>
+      <image hidepinned="0" popoutscaling="100" rotx="-1.270" popbackmode="0" height="300" tilt="-1.449" width="300" stretch="0.974" handcursor="0" id="Element03" pan="-62.280" fov="11.486" clickmode="0" roty="-17.714" rotz="-2.145">
+        <source url="media/MPM.png"/>
+      </image>
+      <image hidepinned="0" popoutscaling="100" rotx="4.026" popbackmode="0" height="300" tilt="-0.068" width="300" stretch="0.915" handcursor="0" id="Element04" pan="-106.425" fov="11.075" clickmode="0" roty="-12.101" rotz="0.748">
+        <source url="media/MCH.png"/>
+      </image>
+      <image hidepinned="0" popoutscaling="100" rotx="1.797" popbackmode="0" height="300" tilt="-12.573" width="300" stretch="0.934" handcursor="0" id="Element05" pan="52.814" fov="8.235" clickmode="0" roty="20.690" rotz="-0.851">
+        <source url="media/MMO.png"/>
       </image>
       <sound tiltsize="10.000" pansize="10.000" mode="0" tilt="-1.000" nodechangekeep="1" level="0.500" ambientlevel="0.000" startmutedmobile="0" id="_background" loop="30" pan="-1.000" field="90.000">
         <source url="media/Moonlit Rows.mp3" mono="0"/>
