@@ -406,9 +406,6 @@
       <label textcolor="0x000000" height="20" backgroundalpha="1" borderradius="1" textalpha="1" width="180" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" backgroundcolor="0xffffff" wordwrap="1" background="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
       <hotspot target="-91.1/-0.8/86.2" tilt="-2.43" url="{node5}" id="Point03" skinid="ht_node" description="" pan="-146.4" title="ทางออก"/>
-      <hotspot target="_parent" tilt="-7.08" url="https://anowl.co/anowlrod/long-lens/part028/" id="Point04" skinid="ht_url" description="" pan="-307.37" title=""/>
-      <hotspot target="_blank" tilt="-10.07" url="https://dole-korat.my.canva.site/tmap-korat22/page-4" id="Point05" skinid="ht_url" description="" pan="-66.95" title=""/>
-      <hotspot target="_blank" tilt="-6.09" url="https://dole-korat.my.canva.site/tmap-korat09/page-2-2" id="Point02" skinid="ht_url" description="" pan="-106.18" title=""/>
       <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat06" id="Poly01" description="" title="เข้าสู่ T-map จักราช">
         <polystring>-243.19/12.41|-243.67/-9.86|-265.05/-10.57|-265.45/13.43</polystring>
       </polyhotspot>
