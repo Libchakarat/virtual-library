@@ -405,8 +405,8 @@
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label textcolor="0x000000" height="20" backgroundalpha="1" borderradius="1" textalpha="1" width="180" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" backgroundcolor="0xffffff" wordwrap="1" background="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
-      <hotspot target="_parent" tilt="-5.56" url="https://osotho.co/arts_and_culture/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%9B%E0%B8%B1/" id="Point01" skinid="ht_url" description="" pan="-106.27" title=""/>
-      <hotspot target="_parent" tilt="-9.47" url="http://virtualhistoricalpark.finearts.go.th/phimai/index.php/th/about-us.html" id="Point02" skinid="ht_url" description="" pan="-65.91" title=""/>
+      <hotspot target="_blank" tilt="-5.56" url="https://dole-korat.my.canva.site/tmap-korat09/page-2-2" id="Point01" skinid="ht_url" description="" pan="-106.27" title=""/>
+      <hotspot target="_blank" tilt="-9.47" url="https://dole-korat.my.canva.site/tmap-korat22/page-4" id="Point02" skinid="ht_url" description="" pan="-65.91" title=""/>
       <hotspot target="-91.1/-0.8/86.2" tilt="-2.43" url="{node5}" id="Point03" skinid="ht_node" description="" pan="-146.4" title="ทางออก"/>
       <hotspot target="_parent" tilt="-7.08" url="https://anowl.co/anowlrod/long-lens/part028/" id="Point04" skinid="ht_url" description="" pan="-307.37" title=""/>
       <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat06" id="Poly01" description="" title="เข้าสู่ T-map จักราช">
