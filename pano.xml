@@ -408,7 +408,7 @@
       <hotspot target="_parent" tilt="-5.56" url="https://osotho.co/arts_and_culture/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%9B%E0%B8%B1/" id="Point01" skinid="ht_url" description="" pan="-106.27" title=""/>
       <hotspot target="_parent" tilt="-9.47" url="http://virtualhistoricalpark.finearts.go.th/phimai/index.php/th/about-us.html" id="Point02" skinid="ht_url" description="" pan="-65.91" title=""/>
       <hotspot target="-91.1/-0.8/86.2" tilt="-2.43" url="{node5}" id="Point03" skinid="ht_node" description="" pan="-146.4" title="ทางออก"/>
-      <hotspot target="_parent" tilt="-7.08" url="https://mgronline.com/travel/detail/9630000013564" id="Point04" skinid="ht_url" description="" pan="-307.37" title=""/>
+      <hotspot target="_parent" tilt="-7.08" url="https://anowl.co/anowlrod/long-lens/part028/" id="Point04" skinid="ht_url" description="" pan="-307.37" title=""/>
       <polyhotspot target="_blank" url="https://dole-korat.my.canva.site/tmap-korat06" id="Poly01" description="" title="เข้าสู่ T-map จักราช">
         <polystring>-243.19/12.41|-243.67/-9.86|-265.05/-10.57|-265.45/13.43</polystring>
       </polyhotspot>
