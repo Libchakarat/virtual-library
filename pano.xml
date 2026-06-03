@@ -63,9 +63,9 @@
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
       <hotspot url="{node3}" id="Point01" description="" tilt="-5.95" target="84.6/2.6/100.0" pan="-40.47" skinid="ht_node" title="มุมลงนามถวายความอาลัย"/>
       <hotspot url="{node4}" id="Point03" description="" tilt="5.35" target="-87.5/-2.0/100.0" pan="-82.28" skinid="ht_node" title="มุมห้องเรียน 360 องศา"/>
-      <hotspot url="{node5}" id="Point04" description="" tilt="4.94" target="-89.1/-7.7/100.0" pan="-54.79" skinid="ht_node" title="มุม T-map"/>
+      <hotspot url="{node5}" id="Point04" description="" tilt="4.9" target="-89.1/-7.7/100.0" pan="-49.69" skinid="ht_node" title="มุม T-map"/>
       <hotspot url="{node6}" id="Point02" description="" tilt="-2.73" target="-3.1/1.7/100.0" pan="-183.37" skinid="ht_node" title=""/>
-      <hotspot url="{node10}" id="Point05" description="" tilt="1.53" target="-87.7/11.1/100.0" pan="-335.58" skinid="ht_node" title="ห้องเฉลิมพระเกียรติ"/>
+      <hotspot url="{node10}" id="Point05" description="" tilt="7.4" target="-87.7/11.1/100.0" pan="-335.84" skinid="ht_node" title="ห้องเฉลิมพระเกียรติ"/>
       <polyhotspot url="https://m.me/nfechakarat" id="Poly01" description="" target="_blank" title="">
         <polystring>-234.8/10.48|-234.9/7.71|-242.92/7.82|-243.23/11.05</polystring>
       </polyhotspot>
@@ -98,17 +98,11 @@
       <video id="Element09" rotx="0.000" tiltsize="10.000" fov="40.000" loop="1" pan="-31.700" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-9.390" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/mumi 0 ios.webm"/>
       </video>
-      <video id="Element11" rotx="0.000" tiltsize="10.000" fov="46.000" loop="10" pan="-49.650" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-9.230" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
+      <video id="Element11" rotx="0.000" tiltsize="10.000" fov="46.000" loop="10" pan="-328.630" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-8.610" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/RMTCH 22222 z1.webm"/>
       </video>
-      <video id="Element12" rotx="0.000" tiltsize="10.000" fov="45.000" loop="10" pan="-63.150" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-9.340" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
+      <video id="Element12" rotx="0.000" tiltsize="10.000" fov="45.000" loop="10" pan="-54.330" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-10.450" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/RMTCH z1.webm"/>
-      </video>
-      <video id="Element13" rotx="-6.000" tiltsize="10.000" fov="50.000" loop="10" pan="-330.570" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-10.130" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
-        <source url="media/ked z1.webm"/>
-      </video>
-      <video id="Element14" rotx="0.000" tiltsize="10.000" fov="45.000" loop="10" pan="-76.120" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-11.470" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
-        <source url="media/PO z1.webm"/>
       </video>
       <image hidepinned="0" clickmode="0" id="Element03" height="200" tilt="10.120" rotx="14.320" rotz="-5.740" roty="35.400" fov="17.170" pan="122.160" popbackmode="0" handcursor="0" popoutscaling="100" width="500" stretch="0.923">
         <source url="media/1.png"/>
@@ -215,16 +209,10 @@
       <video id="Element01" rotx="0.000" tiltsize="10.000" fov="55.000" loop="1" pan="-125.350" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-12.290" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/2 An.webm"/>
       </video>
-      <video id="Element05" rotx="-7.000" tiltsize="10.000" fov="50.000" loop="10" pan="-61.430" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-16.470" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
-        <source url="media/RMTCH 22222 z3.webm"/>
-      </video>
-      <video id="Element06" rotx="-9.000" tiltsize="10.000" fov="50.000" loop="10" pan="-146.290" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-11.410" field="90.000" rotz="1.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
-        <source url="media/RMTCH z3.webm"/>
-      </video>
-      <video id="Element07" rotx="0.000" tiltsize="10.000" fov="45.000" loop="1" pan="-197.870" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-7.150" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
+      <video id="Element07" rotx="0.000" tiltsize="10.000" fov="50.000" loop="10" pan="-64.120" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-15.970" field="90.000" rotz="2.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/ked z3.webm"/>
       </video>
-      <video id="Element08" rotx="0.000" tiltsize="10.000" fov="45.000" loop="10" pan="-214.510" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-8.990" field="90.000" rotz="0.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
+      <video id="Element08" rotx="0.000" tiltsize="10.000" fov="48.000" loop="10" pan="-46.670" pansize="10.000" mode="1" level="1.000" handcursor="0" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" width="100" hidepinned="0" clickmode="0" height="100" tilt="-16.650" field="90.000" rotz="7.000" roty="0.000" popbackmode="0" popoutscaling="100" stretch="1.000">
         <source url="media/PO z3.webm"/>
       </video>
       <webelement id="Element03" rotx="1.850" fov="44.930" pan="101.520" handcursor="0" permeable="0" width="560" hidepinned="0" clickmode="4" height="315" tilt="3.280" rotz="0.010" popbackmode="0" roty="4.880" popoutscaling="100" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GNCAztzxsFo?si=XpbBTl7zDrKxUY_n&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" stretch="0.783"/>
